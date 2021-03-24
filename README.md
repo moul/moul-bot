@@ -14,8 +14,8 @@
 - [moul-bot/depviz-test](https://github.com/moul-bot/depviz-test) - 
 
 #### 🔭 Recent Releases I Worked On
-- [moul/pkgman](https://github.com/moul/pkgman) ([v1.4.2](https://github.com/moul/pkgman/releases/tag/v1.4.2), 1 week ago) - 📱 Package manipulation tool &amp; library (ipa, etc)
-- [moul/bot](https://github.com/moul/bot) ([v1.9.1](https://github.com/moul/bot/releases/tag/v1.9.1), 1 week ago) - 🤖 my personal bot / virtual assistant (GitHub, Discord, HTTP&#43;gRPC API, Twitter, Coffee, etc)
+- [moul/pkgman](https://github.com/moul/pkgman) ([v1.4.2](https://github.com/moul/pkgman/releases/tag/v1.4.2), 2 weeks ago) - 📱 Package manipulation tool &amp; library (ipa, etc)
+- [moul/bot](https://github.com/moul/bot) ([v1.9.1](https://github.com/moul/bot/releases/tag/v1.9.1), 2 weeks ago) - 🤖 my personal bot / virtual assistant (GitHub, Discord, HTTP&#43;gRPC API, Twitter, Coffee, etc)
 - [moul/gotty-client](https://github.com/moul/gotty-client) ([v1.9.1](https://github.com/moul/gotty-client/releases/tag/v1.9.1), 2 weeks ago) - :wrench: terminal client for GoTTY
 - [moul/zapgorm2](https://github.com/moul/zapgorm2) ([v1.0.2](https://github.com/moul/zapgorm2/releases/tag/v1.0.2), 2 weeks ago) - ⚡ zap logging driver for gorm v2
 - [moul/assh](https://github.com/moul/assh) ([v2.11.3](https://github.com/moul/assh/releases/tag/v2.11.3), 1 month ago) - :computer: make your ssh client smarter
@@ -29,9 +29,9 @@
   <h4>👷 Check out what I'm currently working on</h4>
   <ul>
   
-  <li><a href="https://github.com/moul/srand">moul/srand</a> - 🌱 Seed generator for srand (golang) (5 days ago)</li>
-  <li><a href="https://github.com/moul/wipchat">moul/wipchat</a> - ✅ Golang wip.co (ex wip.chat) Go client &#43; CLI (5 days ago)</li>
-  <li><a href="https://github.com/moul/actions">moul/actions</a> - 🙀 Personal GitHub Actions (5 days ago)</li>
+  <li><a href="https://github.com/moul/srand">moul/srand</a> - 🌱 Seed generator for srand (golang) (6 days ago)</li>
+  <li><a href="https://github.com/moul/wipchat">moul/wipchat</a> - ✅ Golang wip.co (ex wip.chat) Go client &#43; CLI (6 days ago)</li>
+  <li><a href="https://github.com/moul/actions">moul/actions</a> - 🙀 Personal GitHub Actions (6 days ago)</li>
   <li><a href="https://github.com/sgtm-club/sgtm">sgtm-club/sgtm</a> - 👍 An ongoing-song sharing platform for musicians (1 month ago)</li>
   <li><a href="https://github.com/moul/depviz">moul/depviz</a> - 👓 dependency visualizer for GitHub &amp; GitLab (a.k.a., &#34;auto-roadmap&#34;) (1 month ago)</li>
   <li><a href="https://github.com/moul/grpcbin">moul/grpcbin</a> - httpbin like for gRPC (1 month ago)</li>
