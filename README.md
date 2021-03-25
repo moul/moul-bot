@@ -23,15 +23,15 @@
 - [ultreme/radio-chaos](https://github.com/ultreme/radio-chaos) ([v1.27.0](https://github.com/ultreme/radio-chaos/releases/tag/v1.27.0), 3 months ago) - https://ultre.me/discord
 - [moul/pipotron](https://github.com/moul/pipotron) ([v1.13.0](https://github.com/moul/pipotron/releases/tag/v1.13.0), 3 months ago) - generic (&amp; funny?) text generator
 - [moul/golang-repo-template](https://github.com/moul/golang-repo-template) ([v1.34.0](https://github.com/moul/golang-repo-template/releases/tag/v1.34.0), 3 months ago) - 🌀 A template for creating new Golang &#43; Docker &#43; Canonical Domain &#43; Badges &#43; Dependabot &#43; Renovate &#43; GolangCI-lint &#43; Goreleaser &#43; GitHub Actions &#43; Gitpod &#43; Depaware &#43; Git Hooks &#43; ...
-- [berty/yolo](https://github.com/berty/yolo) ([v2.98.0](https://github.com/berty/yolo/releases/tag/v2.98.0), 3 months ago) - over-the-air installation and testing of mobile applications (TestFlight alternative)
+- [berty/yolo](https://github.com/berty/yolo) ([v2.98.0](https://github.com/berty/yolo/releases/tag/v2.98.0), 4 months ago) - over-the-air installation and testing of mobile applications (TestFlight alternative)
 
 
   <h4>👷 Check out what I'm currently working on</h4>
   <ul>
   
-  <li><a href="https://github.com/moul/srand">moul/srand</a> - 🌱 Seed generator for srand (golang) (6 days ago)</li>
-  <li><a href="https://github.com/moul/wipchat">moul/wipchat</a> - ✅ Golang wip.co (ex wip.chat) Go client &#43; CLI (6 days ago)</li>
-  <li><a href="https://github.com/moul/actions">moul/actions</a> - 🙀 Personal GitHub Actions (6 days ago)</li>
+  <li><a href="https://github.com/moul/srand">moul/srand</a> - 🌱 Seed generator for srand (golang) (1 week ago)</li>
+  <li><a href="https://github.com/moul/wipchat">moul/wipchat</a> - ✅ Golang wip.co (ex wip.chat) Go client &#43; CLI (1 week ago)</li>
+  <li><a href="https://github.com/moul/actions">moul/actions</a> - 🙀 Personal GitHub Actions (1 week ago)</li>
   <li><a href="https://github.com/sgtm-club/sgtm">sgtm-club/sgtm</a> - 👍 An ongoing-song sharing platform for musicians (1 month ago)</li>
   <li><a href="https://github.com/moul/depviz">moul/depviz</a> - 👓 dependency visualizer for GitHub &amp; GitLab (a.k.a., &#34;auto-roadmap&#34;) (1 month ago)</li>
   <li><a href="https://github.com/moul/grpcbin">moul/grpcbin</a> - httpbin like for gRPC (1 month ago)</li>
