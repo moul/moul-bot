@@ -14,6 +14,7 @@
 - [moul-bot/depviz-test](https://github.com/moul-bot/depviz-test) - 
 
 #### 🔭 Recent Releases I Worked On
+- [moul/grpcbin](https://github.com/moul/grpcbin) ([v1.0.1](https://github.com/moul/grpcbin/releases/tag/v1.0.1), today) - httpbin like for gRPC
 - [moul/pipotron](https://github.com/moul/pipotron) ([v1.13.1](https://github.com/moul/pipotron/releases/tag/v1.13.1), 1 day ago) - generic (&amp; funny?) text generator
 - [moul/gotty-client](https://github.com/moul/gotty-client) ([v1.9.2](https://github.com/moul/gotty-client/releases/tag/v1.9.2), 1 day ago) - :wrench: terminal client for GoTTY
 - [moul/bot](https://github.com/moul/bot) ([v1.9.2](https://github.com/moul/bot/releases/tag/v1.9.2), 1 day ago) - 🤖 my personal bot / virtual assistant (GitHub, Discord, HTTP&#43;gRPC API, Twitter, Coffee, etc)
@@ -23,7 +24,6 @@
 - [moul/u](https://github.com/moul/u) ([v1.20.0](https://github.com/moul/u/releases/tag/v1.20.0), 2 months ago) - Go common utility functions
 - [ultreme/radio-chaos](https://github.com/ultreme/radio-chaos) ([v1.27.0](https://github.com/ultreme/radio-chaos/releases/tag/v1.27.0), 3 months ago) - https://ultre.me/discord
 - [moul/golang-repo-template](https://github.com/moul/golang-repo-template) ([v1.34.0](https://github.com/moul/golang-repo-template/releases/tag/v1.34.0), 3 months ago) - 🌀 A template for creating new Golang &#43; Docker &#43; Canonical Domain &#43; Badges &#43; Dependabot &#43; Renovate &#43; GolangCI-lint &#43; Goreleaser &#43; GitHub Actions &#43; Gitpod &#43; Depaware &#43; Git Hooks &#43; ...
-- [berty/yolo](https://github.com/berty/yolo) ([v2.98.0](https://github.com/berty/yolo/releases/tag/v2.98.0), 4 months ago) - over-the-air installation and testing of mobile applications (TestFlight alternative)
 
 
   <h4>👷 Check out what I'm currently working on</h4>
