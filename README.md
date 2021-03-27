@@ -14,6 +14,7 @@
 - [moul-bot/depviz-test](https://github.com/moul-bot/depviz-test) - 
 
 #### 🔭 Recent Releases I Worked On
+- [moul/converter](https://github.com/moul/converter) ([v1.2.0](https://github.com/moul/converter/releases/tag/v1.2.0), today) - :scissors: multiformat data conversion
 - [moul/gotty-client](https://github.com/moul/gotty-client) ([v1.9.3](https://github.com/moul/gotty-client/releases/tag/v1.9.3), today) - :wrench: terminal client for GoTTY
 - [moul/grpcbin](https://github.com/moul/grpcbin) ([v1.0.2](https://github.com/moul/grpcbin/releases/tag/v1.0.2), today) - httpbin like for gRPC
 - [moul/bot](https://github.com/moul/bot) ([v1.9.4](https://github.com/moul/bot/releases/tag/v1.9.4), today) - 🤖 my personal bot / virtual assistant (GitHub, Discord, HTTP&#43;gRPC API, Twitter, Coffee, etc)
@@ -23,7 +24,6 @@
 - [moul/pipotron](https://github.com/moul/pipotron) ([v1.13.1](https://github.com/moul/pipotron/releases/tag/v1.13.1), 2 days ago) - generic (&amp; funny?) text generator
 - [moul/pkgman](https://github.com/moul/pkgman) ([v1.4.2](https://github.com/moul/pkgman/releases/tag/v1.4.2), 2 weeks ago) - 📱 Package manipulation tool &amp; library (ipa, etc)
 - [moul/assh](https://github.com/moul/assh) ([v2.11.3](https://github.com/moul/assh/releases/tag/v2.11.3), 1 month ago) - :computer: make your ssh client smarter
-- [moul/u](https://github.com/moul/u) ([v1.20.0](https://github.com/moul/u/releases/tag/v1.20.0), 2 months ago) - Go common utility functions
 
 
   <h4>👷 Check out what I'm currently working on</h4>
