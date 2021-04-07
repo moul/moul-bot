@@ -14,7 +14,7 @@
 - [moul-bot/depviz-test](https://github.com/moul-bot/depviz-test) - 
 
 #### 🔭 Recent Releases I Worked On
-- [moul/bot](https://github.com/moul/bot) ([v1.9.5](https://github.com/moul/bot/releases/tag/v1.9.5), 6 days ago) - 🤖 my personal bot / virtual assistant (GitHub, Discord, HTTP&#43;gRPC API, Twitter, Coffee, etc)
+- [moul/bot](https://github.com/moul/bot) ([v1.9.5](https://github.com/moul/bot/releases/tag/v1.9.5), 1 week ago) - 🤖 my personal bot / virtual assistant (GitHub, Discord, HTTP&#43;gRPC API, Twitter, Coffee, etc)
 - [moul/grpcbin](https://github.com/moul/grpcbin) ([v1.0.3](https://github.com/moul/grpcbin/releases/tag/v1.0.3), 1 week ago) - httpbin like for gRPC
 - [moul/http2curl](https://github.com/moul/http2curl) ([v2.2.2](https://github.com/moul/http2curl/releases/tag/v2.2.2), 1 week ago) - :triangular_ruler: Convert Golang&#39;s http.Request to CURL command line
 - [moul/gotty-client](https://github.com/moul/gotty-client) ([v1.10.0](https://github.com/moul/gotty-client/releases/tag/v1.10.0), 1 week ago) - :wrench: terminal client for GoTTY
@@ -23,7 +23,7 @@
 - [moul/zapgorm2](https://github.com/moul/zapgorm2) ([v1.0.3](https://github.com/moul/zapgorm2/releases/tag/v1.0.3), 1 week ago) - ⚡ zap logging driver for gorm v2
 - [moul/anonuuid](https://github.com/moul/anonuuid) ([v1.3.2](https://github.com/moul/anonuuid/releases/tag/v1.3.2), 1 week ago) - :wrench: Anonymize UUIDs outputs (written in Golang)
 - [moul/pipotron](https://github.com/moul/pipotron) ([v1.13.1](https://github.com/moul/pipotron/releases/tag/v1.13.1), 1 week ago) - generic (&amp; funny?) text generator
-- [moul/pkgman](https://github.com/moul/pkgman) ([v1.4.2](https://github.com/moul/pkgman/releases/tag/v1.4.2), 3 weeks ago) - 📱 Package manipulation tool &amp; library (ipa, etc)
+- [moul/pkgman](https://github.com/moul/pkgman) ([v1.4.2](https://github.com/moul/pkgman/releases/tag/v1.4.2), 4 weeks ago) - 📱 Package manipulation tool &amp; library (ipa, etc)
 
 
   <h4>👷 Check out what I'm currently working on</h4>
