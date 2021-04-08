@@ -22,7 +22,7 @@
 - [moul/converter](https://github.com/moul/converter) ([v1.2.0](https://github.com/moul/converter/releases/tag/v1.2.0), 1 week ago) - :scissors: multiformat data conversion
 - [moul/zapgorm2](https://github.com/moul/zapgorm2) ([v1.0.3](https://github.com/moul/zapgorm2/releases/tag/v1.0.3), 1 week ago) - ⚡ zap logging driver for gorm v2
 - [moul/anonuuid](https://github.com/moul/anonuuid) ([v1.3.2](https://github.com/moul/anonuuid/releases/tag/v1.3.2), 1 week ago) - :wrench: Anonymize UUIDs outputs (written in Golang)
-- [moul/pipotron](https://github.com/moul/pipotron) ([v1.13.1](https://github.com/moul/pipotron/releases/tag/v1.13.1), 1 week ago) - generic (&amp; funny?) text generator
+- [moul/pipotron](https://github.com/moul/pipotron) ([v1.13.1](https://github.com/moul/pipotron/releases/tag/v1.13.1), 2 weeks ago) - generic (&amp; funny?) text generator
 - [moul/pkgman](https://github.com/moul/pkgman) ([v1.4.2](https://github.com/moul/pkgman/releases/tag/v1.4.2), 4 weeks ago) - 📱 Package manipulation tool &amp; library (ipa, etc)
 
 
@@ -31,11 +31,11 @@
   
   <li><a href="https://github.com/moul/gotty-client">moul/gotty-client</a> - :wrench: terminal client for GoTTY (1 week ago)</li>
   <li><a href="https://github.com/moul/http2curl">moul/http2curl</a> - :triangular_ruler: Convert Golang&#39;s http.Request to CURL command line (1 week ago)</li>
-  <li><a href="https://github.com/moul/srand">moul/srand</a> - 🌱 Seed generator for srand (golang) (2 weeks ago)</li>
-  <li><a href="https://github.com/moul/wipchat">moul/wipchat</a> - ✅ Golang wip.co (ex wip.chat) Go client &#43; CLI (2 weeks ago)</li>
-  <li><a href="https://github.com/moul/anonuuid">moul/anonuuid</a> - :wrench: Anonymize UUIDs outputs (written in Golang) (2 weeks ago)</li>
-  <li><a href="https://github.com/moul/actions">moul/actions</a> - 🙀 Personal GitHub Actions (2 weeks ago)</li>
-  <li><a href="https://github.com/moul/actions-base">moul/actions-base</a> -  (2 weeks ago)</li>
+  <li><a href="https://github.com/moul/srand">moul/srand</a> - 🌱 Seed generator for srand (golang) (3 weeks ago)</li>
+  <li><a href="https://github.com/moul/wipchat">moul/wipchat</a> - ✅ Golang wip.co (ex wip.chat) Go client &#43; CLI (3 weeks ago)</li>
+  <li><a href="https://github.com/moul/anonuuid">moul/anonuuid</a> - :wrench: Anonymize UUIDs outputs (written in Golang) (3 weeks ago)</li>
+  <li><a href="https://github.com/moul/actions">moul/actions</a> - 🙀 Personal GitHub Actions (3 weeks ago)</li>
+  <li><a href="https://github.com/moul/actions-base">moul/actions-base</a> -  (3 weeks ago)</li>
   <li><a href="https://github.com/moul/golang-repo-template">moul/golang-repo-template</a> - 🌀 A template for creating new Golang &#43; Docker &#43; Canonical Domain &#43; Badges &#43; Dependabot &#43; Renovate &#43; GolangCI-lint &#43; Goreleaser &#43; GitHub Actions &#43; Gitpod &#43; Depaware &#43; Git Hooks &#43; ... (2 months ago)</li>
   <li><a href="https://github.com/moul/quicssh">moul/quicssh</a> - SSH over QUIC (2 months ago)</li>
   <li><a href="https://github.com/moul/depviz">moul/depviz</a> - 👓 dependency visualizer for GitHub &amp; GitLab (a.k.a., &#34;auto-roadmap&#34;) (2 months ago)</li>
