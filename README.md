@@ -19,7 +19,7 @@
 - [moul/http2curl](https://github.com/moul/http2curl) ([v2.2.2](https://github.com/moul/http2curl/releases/tag/v2.2.2), 1 week ago) - :triangular_ruler: Convert Golang&#39;s http.Request to CURL command line
 - [moul/gotty-client](https://github.com/moul/gotty-client) ([v1.10.0](https://github.com/moul/gotty-client/releases/tag/v1.10.0), 1 week ago) - :wrench: terminal client for GoTTY
 - [moul/sshportal](https://github.com/moul/sshportal) ([v1.18.1](https://github.com/moul/sshportal/releases/tag/v1.18.1), 1 week ago) - :tophat: simple, fun and transparent SSH (and telnet) bastion server
-- [moul/converter](https://github.com/moul/converter) ([v1.2.0](https://github.com/moul/converter/releases/tag/v1.2.0), 1 week ago) - :scissors: multiformat data conversion
+- [moul/converter](https://github.com/moul/converter) ([v1.2.0](https://github.com/moul/converter/releases/tag/v1.2.0), 2 weeks ago) - :scissors: multiformat data conversion
 - [moul/zapgorm2](https://github.com/moul/zapgorm2) ([v1.0.3](https://github.com/moul/zapgorm2/releases/tag/v1.0.3), 2 weeks ago) - ⚡ zap logging driver for gorm v2
 - [moul/anonuuid](https://github.com/moul/anonuuid) ([v1.3.2](https://github.com/moul/anonuuid/releases/tag/v1.3.2), 2 weeks ago) - :wrench: Anonymize UUIDs outputs (written in Golang)
 - [moul/pipotron](https://github.com/moul/pipotron) ([v1.13.1](https://github.com/moul/pipotron/releases/tag/v1.13.1), 2 weeks ago) - generic (&amp; funny?) text generator
