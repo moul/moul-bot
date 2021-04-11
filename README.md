@@ -18,7 +18,7 @@
 - [moul/grpcbin](https://github.com/moul/grpcbin) ([v1.0.3](https://github.com/moul/grpcbin/releases/tag/v1.0.3), 1 week ago) - httpbin like for gRPC
 - [moul/http2curl](https://github.com/moul/http2curl) ([v2.2.2](https://github.com/moul/http2curl/releases/tag/v2.2.2), 1 week ago) - :triangular_ruler: Convert Golang&#39;s http.Request to CURL command line
 - [moul/gotty-client](https://github.com/moul/gotty-client) ([v1.10.0](https://github.com/moul/gotty-client/releases/tag/v1.10.0), 1 week ago) - :wrench: terminal client for GoTTY
-- [moul/sshportal](https://github.com/moul/sshportal) ([v1.18.1](https://github.com/moul/sshportal/releases/tag/v1.18.1), 1 week ago) - :tophat: simple, fun and transparent SSH (and telnet) bastion server
+- [moul/sshportal](https://github.com/moul/sshportal) ([v1.18.1](https://github.com/moul/sshportal/releases/tag/v1.18.1), 2 weeks ago) - :tophat: simple, fun and transparent SSH (and telnet) bastion server
 - [moul/converter](https://github.com/moul/converter) ([v1.2.0](https://github.com/moul/converter/releases/tag/v1.2.0), 2 weeks ago) - :scissors: multiformat data conversion
 - [moul/zapgorm2](https://github.com/moul/zapgorm2) ([v1.0.3](https://github.com/moul/zapgorm2/releases/tag/v1.0.3), 2 weeks ago) - ⚡ zap logging driver for gorm v2
 - [moul/anonuuid](https://github.com/moul/anonuuid) ([v1.3.2](https://github.com/moul/anonuuid/releases/tag/v1.3.2), 2 weeks ago) - :wrench: Anonymize UUIDs outputs (written in Golang)
@@ -30,7 +30,7 @@
   <ul>
   
   <li><a href="https://github.com/moul/gotty-client">moul/gotty-client</a> - :wrench: terminal client for GoTTY (1 week ago)</li>
-  <li><a href="https://github.com/moul/http2curl">moul/http2curl</a> - :triangular_ruler: Convert Golang&#39;s http.Request to CURL command line (1 week ago)</li>
+  <li><a href="https://github.com/moul/http2curl">moul/http2curl</a> - :triangular_ruler: Convert Golang&#39;s http.Request to CURL command line (2 weeks ago)</li>
   <li><a href="https://github.com/moul/srand">moul/srand</a> - 🌱 Seed generator for srand (golang) (3 weeks ago)</li>
   <li><a href="https://github.com/moul/wipchat">moul/wipchat</a> - ✅ Golang wip.co (ex wip.chat) Go client &#43; CLI (3 weeks ago)</li>
   <li><a href="https://github.com/moul/anonuuid">moul/anonuuid</a> - :wrench: Anonymize UUIDs outputs (written in Golang) (3 weeks ago)</li>
