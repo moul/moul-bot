@@ -14,6 +14,7 @@
 - [moul-bot/depviz-test](https://github.com/moul-bot/depviz-test) - 
 
 #### 🔭 Recent Releases I Worked On
+- [moul/u](https://github.com/moul/u) ([v1.21.0](https://github.com/moul/u/releases/tag/v1.21.0), today) - Go common utility functions
 - [pathwar/pathwar](https://github.com/pathwar/pathwar) ([v2.73.0](https://github.com/pathwar/pathwar/releases/tag/v2.73.0), today) - ☠️ The Pathwar Project ☠️
 - [moul/pipotron](https://github.com/moul/pipotron) ([v1.13.2](https://github.com/moul/pipotron/releases/tag/v1.13.2), 2 days ago) - generic (&amp; funny?) text generator
 - [moul/grpcbin](https://github.com/moul/grpcbin) ([v1.0.5](https://github.com/moul/grpcbin/releases/tag/v1.0.5), 2 days ago) - httpbin like for gRPC
@@ -23,7 +24,6 @@
 - [moul/sshportal](https://github.com/moul/sshportal) ([v1.18.1](https://github.com/moul/sshportal/releases/tag/v1.18.1), 3 weeks ago) - :tophat: simple, fun and transparent SSH (and telnet) bastion server
 - [moul/converter](https://github.com/moul/converter) ([v1.2.0](https://github.com/moul/converter/releases/tag/v1.2.0), 3 weeks ago) - :scissors: multiformat data conversion
 - [moul/zapgorm2](https://github.com/moul/zapgorm2) ([v1.0.3](https://github.com/moul/zapgorm2/releases/tag/v1.0.3), 4 weeks ago) - ⚡ zap logging driver for gorm v2
-- [moul/anonuuid](https://github.com/moul/anonuuid) ([v1.3.2](https://github.com/moul/anonuuid/releases/tag/v1.3.2), 4 weeks ago) - :wrench: Anonymize UUIDs outputs (written in Golang)
 
 
   <h4>👷 Check out what I'm currently working on</h4>
