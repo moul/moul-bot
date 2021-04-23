@@ -14,15 +14,15 @@
 - [moul-bot/depviz-test](https://github.com/moul-bot/depviz-test) - 
 
 #### 🔭 Recent Releases I Worked On
-- [moul/pipotron](https://github.com/moul/pipotron) ([v1.13.2](https://github.com/moul/pipotron/releases/tag/v1.13.2), 1 day ago) - generic (&amp; funny?) text generator
-- [moul/grpcbin](https://github.com/moul/grpcbin) ([v1.0.5](https://github.com/moul/grpcbin/releases/tag/v1.0.5), 1 day ago) - httpbin like for gRPC
+- [moul/pipotron](https://github.com/moul/pipotron) ([v1.13.2](https://github.com/moul/pipotron/releases/tag/v1.13.2), 2 days ago) - generic (&amp; funny?) text generator
+- [moul/grpcbin](https://github.com/moul/grpcbin) ([v1.0.5](https://github.com/moul/grpcbin/releases/tag/v1.0.5), 2 days ago) - httpbin like for gRPC
 - [moul/bot](https://github.com/moul/bot) ([v1.9.6](https://github.com/moul/bot/releases/tag/v1.9.6), 1 week ago) - 🤖 my personal bot / virtual assistant (GitHub, Discord, HTTP&#43;gRPC API, Twitter, Coffee, etc)
 - [moul/http2curl](https://github.com/moul/http2curl) ([v2.2.2](https://github.com/moul/http2curl/releases/tag/v2.2.2), 3 weeks ago) - :triangular_ruler: Convert Golang&#39;s http.Request to CURL command line
 - [moul/gotty-client](https://github.com/moul/gotty-client) ([v1.10.0](https://github.com/moul/gotty-client/releases/tag/v1.10.0), 3 weeks ago) - :wrench: terminal client for GoTTY
 - [moul/sshportal](https://github.com/moul/sshportal) ([v1.18.1](https://github.com/moul/sshportal/releases/tag/v1.18.1), 3 weeks ago) - :tophat: simple, fun and transparent SSH (and telnet) bastion server
 - [moul/converter](https://github.com/moul/converter) ([v1.2.0](https://github.com/moul/converter/releases/tag/v1.2.0), 3 weeks ago) - :scissors: multiformat data conversion
-- [moul/zapgorm2](https://github.com/moul/zapgorm2) ([v1.0.3](https://github.com/moul/zapgorm2/releases/tag/v1.0.3), 3 weeks ago) - ⚡ zap logging driver for gorm v2
-- [moul/anonuuid](https://github.com/moul/anonuuid) ([v1.3.2](https://github.com/moul/anonuuid/releases/tag/v1.3.2), 3 weeks ago) - :wrench: Anonymize UUIDs outputs (written in Golang)
+- [moul/zapgorm2](https://github.com/moul/zapgorm2) ([v1.0.3](https://github.com/moul/zapgorm2/releases/tag/v1.0.3), 4 weeks ago) - ⚡ zap logging driver for gorm v2
+- [moul/anonuuid](https://github.com/moul/anonuuid) ([v1.3.2](https://github.com/moul/anonuuid/releases/tag/v1.3.2), 4 weeks ago) - :wrench: Anonymize UUIDs outputs (written in Golang)
 - [moul/pkgman](https://github.com/moul/pkgman) ([v1.4.2](https://github.com/moul/pkgman/releases/tag/v1.4.2), 1 month ago) - 📱 Package manipulation tool &amp; library (ipa, etc)
 
 
