@@ -20,16 +20,16 @@
 {{ end -}}
 {{- end}}
 
-  <h4>👷 Check out what I'm currently working on</h4>
-  <ul>
-  {{range recentContributions 10}}
-  <li><a href="{{.Repo.URL}}">{{.Repo.Name}}</a> - {{.Repo.Description}} ({{humanize .OccurredAt}})</li>
-  {{- end}}
-  </ul>
+<h4>👷 Check out what I'm currently working on</h4>
+<ul>
+{{range recentContributions 10}}
+<li><a href="{{.Repo.URL}}">{{.Repo.Name}}</a> - {{.Repo.Description}} ({{humanize .OccurredAt}})</li>
+{{- end}}
+</ul>
 
-  <h4>👯 Check out some of my recent followers</h4>
-  <ul>
-  {{range followers 5}}
-  <li><a href="{{.URL}}">{{.Login}}</a>
-  {{- end}}
-  </ul>
+<h4>👯 Check out some of my recent followers</h4>
+<ul>
+{{range followers 5}}
+<li><a href="{{.URL}}">{{.Login}}</a>
+{{- end}}
+</ul>
