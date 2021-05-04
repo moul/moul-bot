@@ -14,6 +14,7 @@
 - [moul-bot/depviz-test](https://github.com/moul-bot/depviz-test) - 
 
 #### 🔭 Recent Releases I Worked On
+- [moul/makerlog](https://github.com/moul/makerlog) ([v1.5.1](https://github.com/moul/makerlog/releases/tag/v1.5.1), today) - Golang getmakerlog.com client &#43; CLI
 - [moul/pipotron](https://github.com/moul/pipotron) ([v1.13.3](https://github.com/moul/pipotron/releases/tag/v1.13.3), 2 days ago) - generic (&amp; funny?) text generator
 - [moul/u](https://github.com/moul/u) ([v1.22.0](https://github.com/moul/u/releases/tag/v1.22.0), 5 days ago) - Go common utility functions
 - [moul/sshportal](https://github.com/moul/sshportal) ([v1.18.3](https://github.com/moul/sshportal/releases/tag/v1.18.3), 1 week ago) - :tophat: simple, fun and transparent SSH (and telnet) bastion server
@@ -23,7 +24,6 @@
 - [pathwar/pathwar](https://github.com/pathwar/pathwar) ([v2.73.0](https://github.com/pathwar/pathwar/releases/tag/v2.73.0), 1 week ago) - ☠️ The Pathwar Project ☠️
 - [moul/grpcbin](https://github.com/moul/grpcbin) ([v1.0.5](https://github.com/moul/grpcbin/releases/tag/v1.0.5), 1 week ago) - httpbin like for gRPC
 - [moul/bot](https://github.com/moul/bot) ([v1.9.6](https://github.com/moul/bot/releases/tag/v1.9.6), 3 weeks ago) - 🤖 my personal bot / virtual assistant (GitHub, Discord, HTTP&#43;gRPC API, Twitter, Coffee, etc)
-- [moul/http2curl](https://github.com/moul/http2curl) ([v2.2.2](https://github.com/moul/http2curl/releases/tag/v2.2.2), 1 month ago) - :triangular_ruler: Convert Golang&#39;s http.Request to CURL command line
 
 
 <h4>👷 Check out what I'm currently working on</h4>
