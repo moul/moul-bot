@@ -14,6 +14,7 @@
 - [moul-bot/depviz-test](https://github.com/moul-bot/depviz-test) - 
 
 #### 🔭 Recent Releases I Worked On
+- [moul/bot](https://github.com/moul/bot) ([v1.9.7](https://github.com/moul/bot/releases/tag/v1.9.7), today) - 🤖 my personal bot / virtual assistant (GitHub, Discord, HTTP&#43;gRPC API, Twitter, Coffee, etc)
 - [moul/grpcbin](https://github.com/moul/grpcbin) ([v1.0.7](https://github.com/moul/grpcbin/releases/tag/v1.0.7), 4 days ago) - httpbin like for gRPC
 - [moul/zapgorm2](https://github.com/moul/zapgorm2) ([v1.1.0](https://github.com/moul/zapgorm2/releases/tag/v1.1.0), 6 days ago) - ⚡ zap logging driver for gorm v2
 - [moul/repoman](https://github.com/moul/repoman) ([v1.1.2](https://github.com/moul/repoman/releases/tag/v1.1.2), 6 days ago) - 📋 repo manager: some scripts I run against my repos
@@ -23,7 +24,6 @@
 - [moul/u](https://github.com/moul/u) ([v1.22.0](https://github.com/moul/u/releases/tag/v1.22.0), 2 weeks ago) - Go common utility functions
 - [moul/sshportal](https://github.com/moul/sshportal) ([v1.18.3](https://github.com/moul/sshportal/releases/tag/v1.18.3), 2 weeks ago) - :tophat: simple, fun and transparent SSH (and telnet) bastion server
 - [sgtm-club/sgtm](https://github.com/sgtm-club/sgtm) ([v1.54.2](https://github.com/sgtm-club/sgtm/releases/tag/v1.54.2), 2 weeks ago) - 👍 An ongoing-song sharing platform for musicians
-- [moul/pkgman](https://github.com/moul/pkgman) ([v1.4.3](https://github.com/moul/pkgman/releases/tag/v1.4.3), 2 weeks ago) - 📱 Package manipulation tool &amp; library (ipa, etc)
 
 
 <h4>👷 Check out what I'm currently working on</h4>
