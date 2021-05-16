@@ -31,14 +31,14 @@
 
 <li><a href="https://github.com/moul/zapgorm2">moul/zapgorm2</a> - ⚡ zap logging driver for gorm v2 (1 week ago)</li>
 <li><a href="https://github.com/sgtm-club/sgtm">sgtm-club/sgtm</a> - 👍 An ongoing-song sharing platform for musicians (2 weeks ago)</li>
-<li><a href="https://github.com/moul/repoman">moul/repoman</a> - 📋 repo manager: some scripts I run against my repos (3 weeks ago)</li>
 <li><a href="https://github.com/moul/sshportal">moul/sshportal</a> - :tophat: simple, fun and transparent SSH (and telnet) bastion server (3 weeks ago)</li>
+<li><a href="https://github.com/moul/repoman">moul/repoman</a> - 📋 repo manager: some scripts I run against my repos (3 weeks ago)</li>
 <li><a href="https://github.com/moul/assh">moul/assh</a> - :computer: make your ssh client smarter (3 weeks ago)</li>
 <li><a href="https://github.com/moul/zapring">moul/zapring</a> - 💍 In-memory RING buffer backend for the Zap logger (3 weeks ago)</li>
 <li><a href="https://github.com/moul/gotty-client">moul/gotty-client</a> - :wrench: terminal client for GoTTY (1 month ago)</li>
 <li><a href="https://github.com/moul/http2curl">moul/http2curl</a> - :triangular_ruler: Convert Golang&#39;s http.Request to CURL command line (1 month ago)</li>
-<li><a href="https://github.com/moul/actions">moul/actions</a> - 🙀 Personal GitHub Actions (1 month ago)</li>
-<li><a href="https://github.com/moul/actions-base">moul/actions-base</a> -  (1 month ago)</li>
+<li><a href="https://github.com/moul/wipchat">moul/wipchat</a> - ✅ Golang wip.co (ex wip.chat) Go client &#43; CLI (1 month ago)</li>
+<li><a href="https://github.com/moul/anonuuid">moul/anonuuid</a> - :wrench: Anonymize UUIDs outputs (written in Golang) (1 month ago)</li>
 </ul>
 
 <h4>👯 Check out some of my recent followers</h4>
