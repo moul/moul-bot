@@ -14,7 +14,7 @@
 - [moul-bot/depviz-test](https://github.com/moul-bot/depviz-test) - 
 
 #### 🔭 Recent Releases I Worked On
-- [moul/bot](https://github.com/moul/bot) ([v1.9.7](https://github.com/moul/bot/releases/tag/v1.9.7), 3 days ago) - 🤖 my personal bot / virtual assistant (GitHub, Discord, HTTP&#43;gRPC API, Twitter, Coffee, etc)
+- [moul/bot](https://github.com/moul/bot) ([v1.9.8](https://github.com/moul/bot/releases/tag/v1.9.8), today) - 🤖 my personal bot / virtual assistant (GitHub, Discord, HTTP&#43;gRPC API, Twitter, Coffee, etc)
 - [moul/grpcbin](https://github.com/moul/grpcbin) ([v1.0.7](https://github.com/moul/grpcbin/releases/tag/v1.0.7), 1 week ago) - httpbin like for gRPC
 - [moul/zapgorm2](https://github.com/moul/zapgorm2) ([v1.1.0](https://github.com/moul/zapgorm2/releases/tag/v1.1.0), 1 week ago) - ⚡ zap logging driver for gorm v2
 - [moul/repoman](https://github.com/moul/repoman) ([v1.1.2](https://github.com/moul/repoman/releases/tag/v1.1.2), 1 week ago) - 📋 repo manager: some scripts I run against my repos
