@@ -14,7 +14,7 @@
 - [moul-bot/depviz-test](https://github.com/moul-bot/depviz-test) - 
 
 #### 🔭 Recent Releases I Worked On
-- [moul/bot](https://github.com/moul/bot) ([v1.9.8](https://github.com/moul/bot/releases/tag/v1.9.8), 2 days ago) - 🤖 my personal bot / virtual assistant (GitHub, Discord, HTTP&#43;gRPC API, Twitter, Coffee, etc)
+- [moul/bot](https://github.com/moul/bot) ([v1.9.8](https://github.com/moul/bot/releases/tag/v1.9.8), 3 days ago) - 🤖 my personal bot / virtual assistant (GitHub, Discord, HTTP&#43;gRPC API, Twitter, Coffee, etc)
 - [moul/grpcbin](https://github.com/moul/grpcbin) ([v1.0.7](https://github.com/moul/grpcbin/releases/tag/v1.0.7), 1 week ago) - httpbin like for gRPC
 - [moul/zapgorm2](https://github.com/moul/zapgorm2) ([v1.1.0](https://github.com/moul/zapgorm2/releases/tag/v1.1.0), 1 week ago) - ⚡ zap logging driver for gorm v2
 - [moul/repoman](https://github.com/moul/repoman) ([v1.1.2](https://github.com/moul/repoman/releases/tag/v1.1.2), 1 week ago) - 📋 repo manager: some scripts I run against my repos
@@ -30,7 +30,7 @@
 <ul>
 
 <li><a href="https://github.com/moul/zapgorm2">moul/zapgorm2</a> - ⚡ zap logging driver for gorm v2 (1 week ago)</li>
-<li><a href="https://github.com/sgtm-club/sgtm">sgtm-club/sgtm</a> - 👍 An ongoing-song sharing platform for musicians (2 weeks ago)</li>
+<li><a href="https://github.com/sgtm-club/sgtm">sgtm-club/sgtm</a> - 👍 An ongoing-song sharing platform for musicians (3 weeks ago)</li>
 <li><a href="https://github.com/moul/sshportal">moul/sshportal</a> - :tophat: simple, fun and transparent SSH (and telnet) bastion server (3 weeks ago)</li>
 <li><a href="https://github.com/moul/repoman">moul/repoman</a> - 📋 repo manager: some scripts I run against my repos (3 weeks ago)</li>
 <li><a href="https://github.com/moul/assh">moul/assh</a> - :computer: make your ssh client smarter (3 weeks ago)</li>
