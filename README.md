@@ -14,7 +14,7 @@
 - [moul-bot/depviz-test](https://github.com/moul-bot/depviz-test) - 
 
 #### 🔭 Recent Releases I Worked On
-- [moul/u](https://github.com/moul/u) ([v1.22.0](https://github.com/moul/u/releases/tag/v1.22.0), today) - Go common utility functions
+- [moul/u](https://github.com/moul/u) ([v1.23.0](https://github.com/moul/u/releases/tag/v1.23.0), today) - Go common utility functions
 - [moul/repoman](https://github.com/moul/repoman) ([v1.2.0](https://github.com/moul/repoman/releases/tag/v1.2.0), 1 day ago) - 📋 repo manager: some scripts I run against my repos
 - [moul/multipmuri](https://github.com/moul/multipmuri) ([v1.14.0](https://github.com/moul/multipmuri/releases/tag/v1.14.0), 1 day ago) - A library to parse project-management URIs (inspired by @multiformats)
 - [moul/bot](https://github.com/moul/bot) ([v1.9.10](https://github.com/moul/bot/releases/tag/v1.9.10), 4 days ago) - 🤖 my personal bot / virtual assistant (GitHub, Discord, HTTP&#43;gRPC API, Twitter, Coffee, etc)
