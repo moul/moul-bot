@@ -14,6 +14,7 @@
 - [moul-bot/depviz-test](https://github.com/moul-bot/depviz-test) - 
 
 #### 🔭 Recent Releases I Worked On
+- [moul/rules.mk](https://github.com/moul/rules.mk) ([v1.17.0](https://github.com/moul/rules.mk/releases/tag/v1.17.0), today) - Pre-defined rules to include in your Makefile (Golang, Docker, ...)
 - [moul/u](https://github.com/moul/u) ([v1.23.0](https://github.com/moul/u/releases/tag/v1.23.0), today) - Go common utility functions
 - [moul/repoman](https://github.com/moul/repoman) ([v1.2.0](https://github.com/moul/repoman/releases/tag/v1.2.0), 1 day ago) - 📋 repo manager: some scripts I run against my repos
 - [moul/multipmuri](https://github.com/moul/multipmuri) ([v1.14.0](https://github.com/moul/multipmuri/releases/tag/v1.14.0), 1 day ago) - A library to parse project-management URIs (inspired by @multiformats)
@@ -23,7 +24,6 @@
 - [berty/go-ipfs-log](https://github.com/berty/go-ipfs-log) ([v1.3.0](https://github.com/berty/go-ipfs-log/releases/tag/v1.3.0), 3 weeks ago) - Go version of append-only log CRDT on IPFS
 - [moul/makerlog](https://github.com/moul/makerlog) ([v1.5.1](https://github.com/moul/makerlog/releases/tag/v1.5.1), 3 weeks ago) - Golang getmakerlog.com client &#43; CLI
 - [moul/pipotron](https://github.com/moul/pipotron) ([v1.13.3](https://github.com/moul/pipotron/releases/tag/v1.13.3), 3 weeks ago) - generic (&amp; funny?) text generator
-- [moul/sshportal](https://github.com/moul/sshportal) ([v1.18.3](https://github.com/moul/sshportal/releases/tag/v1.18.3), 1 month ago) - :tophat: simple, fun and transparent SSH (and telnet) bastion server
 
 
 <h4>👷 Check out what I'm currently working on</h4>
