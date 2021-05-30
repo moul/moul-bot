@@ -14,8 +14,8 @@
 - [moul-bot/depviz-test](https://github.com/moul-bot/depviz-test) - 
 
 #### 🔭 Recent Releases I Worked On
+- [moul/repoman](https://github.com/moul/repoman) ([v1.6.0](https://github.com/moul/repoman/releases/tag/v1.6.0), today) - 📋 repo manager: some scripts I run against my repos
 - [moul/golang-repo-template](https://github.com/moul/golang-repo-template) ([v1.34.1](https://github.com/moul/golang-repo-template/releases/tag/v1.34.1), 2 days ago) - 🌀 A template for creating new Golang &#43; Docker &#43; Canonical Domain &#43; Badges &#43; Dependabot &#43; Renovate &#43; GolangCI-lint &#43; Goreleaser &#43; GitHub Actions &#43; Gitpod &#43; Depaware &#43; Git Hooks &#43; ...
-- [moul/repoman](https://github.com/moul/repoman) ([v1.4.3](https://github.com/moul/repoman/releases/tag/v1.4.3), 2 days ago) - 📋 repo manager: some scripts I run against my repos
 - [moul/u](https://github.com/moul/u) ([v1.24.0](https://github.com/moul/u/releases/tag/v1.24.0), 3 days ago) - Go common utility functions
 - [moul/zapconfig](https://github.com/moul/zapconfig) ([v1.4.0](https://github.com/moul/zapconfig/releases/tag/v1.4.0), 3 days ago) - ⚡ Opinionated presets for Uber&#39;s Zap logging go library
 - [moul/rules.mk](https://github.com/moul/rules.mk) ([v1.17.0](https://github.com/moul/rules.mk/releases/tag/v1.17.0), 3 days ago) - Pre-defined rules to include in your Makefile (Golang, Docker, ...)
