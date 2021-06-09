@@ -14,6 +14,7 @@
 - [moul-bot/depviz-test](https://github.com/moul-bot/depviz-test) - 
 
 #### 🔭 Recent Releases I Worked On
+- [moul/logman](https://github.com/moul/logman) ([v1.0.0](https://github.com/moul/logman/releases/tag/v1.0.0), today) - log files management library optimized for &#34;Share with Developers&#34;
 - [moul/totp-cli](https://github.com/moul/totp-cli) ([v1.0.0](https://github.com/moul/totp-cli/releases/tag/v1.0.0), 1 day ago) - 🔒 TOTP CLI
 - [moul/zapgorm](https://github.com/moul/zapgorm) ([v1.1.3](https://github.com/moul/zapgorm/releases/tag/v1.1.3), 2 days ago) - ⚡ Zap logger for GORM (support v1 and v2)
 - [moul/golang-repo-template](https://github.com/moul/golang-repo-template) ([v1.35.0](https://github.com/moul/golang-repo-template/releases/tag/v1.35.0), 1 week ago) - 🌀 A template for creating new Golang &#43; Docker &#43; Canonical Domain &#43; Badges &#43; Dependabot &#43; Renovate &#43; GolangCI-lint &#43; Goreleaser &#43; GitHub Actions &#43; Gitpod &#43; Depaware &#43; Git Hooks &#43; ...
@@ -23,7 +24,6 @@
 - [moul/rules.mk](https://github.com/moul/rules.mk) ([v1.17.0](https://github.com/moul/rules.mk/releases/tag/v1.17.0), 1 week ago) - Pre-defined rules to include in your Makefile (Golang, Docker, ...)
 - [moul/multipmuri](https://github.com/moul/multipmuri) ([v1.14.0](https://github.com/moul/multipmuri/releases/tag/v1.14.0), 2 weeks ago) - A library to parse project-management URIs (inspired by @multiformats)
 - [moul/bot](https://github.com/moul/bot) ([v1.9.10](https://github.com/moul/bot/releases/tag/v1.9.10), 2 weeks ago) - 🤖 my personal bot / virtual assistant (GitHub, Discord, HTTP&#43;gRPC API, Twitter, Coffee, etc)
-- [moul/grpcbin](https://github.com/moul/grpcbin) ([v1.0.8](https://github.com/moul/grpcbin/releases/tag/v1.0.8), 2 weeks ago) - httpbin like for gRPC
 
 
 <h4>👷 Check out what I'm currently working on</h4>
