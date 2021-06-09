@@ -30,6 +30,7 @@
 <ul>
 
 <li><a href="https://github.com/moul/totp-cli">moul/totp-cli</a> - 🔒 TOTP CLI (1 day ago)</li>
+<li><a href="https://github.com/moul/logman">moul/logman</a> - log files management library optimized for &#34;Share with Developers&#34; (1 week ago)</li>
 <li><a href="https://github.com/moul/zapgorm2">moul/zapgorm2</a> - ⚡ zap logging driver for gorm v2 (1 month ago)</li>
 <li><a href="https://github.com/sgtm-club/sgtm">sgtm-club/sgtm</a> - 👍 An ongoing-song sharing platform for musicians (1 month ago)</li>
 <li><a href="https://github.com/moul/repoman">moul/repoman</a> - 📋 repo manager: some scripts I run against my repos (1 month ago)</li>
@@ -38,7 +39,6 @@
 <li><a href="https://github.com/moul/zapring">moul/zapring</a> - 💍 In-memory RING buffer backend for the Zap logger (1 month ago)</li>
 <li><a href="https://github.com/moul/gotty-client">moul/gotty-client</a> - :wrench: terminal client for GoTTY (2 months ago)</li>
 <li><a href="https://github.com/moul/http2curl">moul/http2curl</a> - :triangular_ruler: Convert Golang&#39;s http.Request to CURL command line (2 months ago)</li>
-<li><a href="https://github.com/moul/srand">moul/srand</a> - 🌱 Seed generator for srand (golang) (2 months ago)</li>
 </ul>
 
 <h4>👯 Check out some of my recent followers</h4>
