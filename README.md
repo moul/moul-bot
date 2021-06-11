@@ -14,6 +14,7 @@
 - [moul-bot/depviz-test](https://github.com/moul-bot/depviz-test) - 
 
 #### 🔭 Recent Releases I Worked On
+- [berty/go-ipfs-log](https://github.com/berty/go-ipfs-log) ([v1.4.0](https://github.com/berty/go-ipfs-log/releases/tag/v1.4.0), today) - Go version of append-only log CRDT on IPFS
 - [moul/pipotron](https://github.com/moul/pipotron) ([v1.13.4](https://github.com/moul/pipotron/releases/tag/v1.13.4), today) - generic (&amp; funny?) text generator
 - [moul/converter](https://github.com/moul/converter) ([v1.2.1](https://github.com/moul/converter/releases/tag/v1.2.1), today) - :scissors: multiformat data conversion
 - [moul/bot](https://github.com/moul/bot) ([v1.9.11](https://github.com/moul/bot/releases/tag/v1.9.11), today) - 🤖 my personal bot / virtual assistant (GitHub, Discord, HTTP&#43;gRPC API, Twitter, Coffee, etc)
@@ -23,7 +24,6 @@
 - [moul/zapgorm](https://github.com/moul/zapgorm) ([v1.1.3](https://github.com/moul/zapgorm/releases/tag/v1.1.3), 4 days ago) - ⚡ Zap logger for GORM (support v1 and v2)
 - [moul/golang-repo-template](https://github.com/moul/golang-repo-template) ([v1.35.0](https://github.com/moul/golang-repo-template/releases/tag/v1.35.0), 1 week ago) - 🌀 A template for creating new Golang &#43; Docker &#43; Canonical Domain &#43; Badges &#43; Dependabot &#43; Renovate &#43; GolangCI-lint &#43; Goreleaser &#43; GitHub Actions &#43; Gitpod &#43; Depaware &#43; Git Hooks &#43; ...
 - [moul/repoman](https://github.com/moul/repoman) ([v1.6.0](https://github.com/moul/repoman/releases/tag/v1.6.0), 1 week ago) - 📋 repo manager: some scripts I run against my repos
-- [moul/u](https://github.com/moul/u) ([v1.24.0](https://github.com/moul/u/releases/tag/v1.24.0), 2 weeks ago) - Go common utility functions
 
 
 <h4>👷 Check out what I'm currently working on</h4>
