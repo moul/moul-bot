@@ -14,8 +14,8 @@
 - [moul-bot/depviz-test](https://github.com/moul-bot/depviz-test) - 
 
 #### 🔭 Recent Releases I Worked On
-- [moul/u](https://github.com/moul/u) ([v1.25.0](https://github.com/moul/u/releases/tag/v1.25.0), 3 days ago) - Go common utility functions
-- [berty/go-ipfs-log](https://github.com/berty/go-ipfs-log) ([v1.4.1](https://github.com/berty/go-ipfs-log/releases/tag/v1.4.1), 4 days ago) - Go version of append-only log CRDT on IPFS
+- [moul/u](https://github.com/moul/u) ([v1.25.0](https://github.com/moul/u/releases/tag/v1.25.0), 4 days ago) - Go common utility functions
+- [berty/go-ipfs-log](https://github.com/berty/go-ipfs-log) ([v1.4.1](https://github.com/berty/go-ipfs-log/releases/tag/v1.4.1), 5 days ago) - Go version of append-only log CRDT on IPFS
 - [moul/converter](https://github.com/moul/converter) ([v1.2.2](https://github.com/moul/converter/releases/tag/v1.2.2), 1 week ago) - :scissors: multiformat data conversion
 - [moul/bot](https://github.com/moul/bot) ([v1.9.12](https://github.com/moul/bot/releases/tag/v1.9.12), 1 week ago) - 🤖 my personal bot / virtual assistant (GitHub, Discord, HTTP&#43;gRPC API, Twitter, Coffee, etc)
 - [moul/pipotron](https://github.com/moul/pipotron) ([v1.13.4](https://github.com/moul/pipotron/releases/tag/v1.13.4), 1 week ago) - generic (&amp; funny?) text generator
