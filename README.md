@@ -14,7 +14,7 @@
 - [moul-bot/depviz-test](https://github.com/moul-bot/depviz-test) - 
 
 #### 🔭 Recent Releases I Worked On
-- [berty/yolo](https://github.com/berty/yolo) ([v2.99.0](https://github.com/berty/yolo/releases/tag/v2.99.0), today) - over-the-air installation and testing of mobile applications (TestFlight alternative)
+- [berty/yolo](https://github.com/berty/yolo) ([v2.99.2](https://github.com/berty/yolo/releases/tag/v2.99.2), today) - over-the-air installation and testing of mobile applications (TestFlight alternative)
 - [moul/golang-repo-template](https://github.com/moul/golang-repo-template) ([v1.35.2](https://github.com/moul/golang-repo-template/releases/tag/v1.35.2), 1 day ago) - 🌀 A template for creating new Golang &#43; Docker &#43; Canonical Domain &#43; Badges &#43; Dependabot &#43; Renovate &#43; GolangCI-lint &#43; Goreleaser &#43; GitHub Actions &#43; Gitpod &#43; Depaware &#43; Git Hooks &#43; ...
 - [moul/u](https://github.com/moul/u) ([v1.25.1](https://github.com/moul/u/releases/tag/v1.25.1), 2 days ago) - Go common utility functions
 - [berty/go-ipfs-log](https://github.com/berty/go-ipfs-log) ([v1.4.1](https://github.com/berty/go-ipfs-log/releases/tag/v1.4.1), 1 week ago) - Go version of append-only log CRDT on IPFS
