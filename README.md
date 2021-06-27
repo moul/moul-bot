@@ -14,9 +14,9 @@
 - [moul-bot/depviz-test](https://github.com/moul-bot/depviz-test) - 
 
 #### 🔭 Recent Releases I Worked On
-- [berty/yolo](https://github.com/berty/yolo) ([v2.99.2](https://github.com/berty/yolo/releases/tag/v2.99.2), 1 day ago) - over-the-air installation and testing of mobile applications (TestFlight alternative)
-- [moul/golang-repo-template](https://github.com/moul/golang-repo-template) ([v1.35.2](https://github.com/moul/golang-repo-template/releases/tag/v1.35.2), 2 days ago) - 🌀 A template for creating new Golang &#43; Docker &#43; Canonical Domain &#43; Badges &#43; Dependabot &#43; Renovate &#43; GolangCI-lint &#43; Goreleaser &#43; GitHub Actions &#43; Gitpod &#43; Depaware &#43; Git Hooks &#43; ...
-- [moul/u](https://github.com/moul/u) ([v1.25.1](https://github.com/moul/u/releases/tag/v1.25.1), 3 days ago) - Go common utility functions
+- [berty/yolo](https://github.com/berty/yolo) ([v2.99.2](https://github.com/berty/yolo/releases/tag/v2.99.2), 2 days ago) - over-the-air installation and testing of mobile applications (TestFlight alternative)
+- [moul/golang-repo-template](https://github.com/moul/golang-repo-template) ([v1.35.2](https://github.com/moul/golang-repo-template/releases/tag/v1.35.2), 3 days ago) - 🌀 A template for creating new Golang &#43; Docker &#43; Canonical Domain &#43; Badges &#43; Dependabot &#43; Renovate &#43; GolangCI-lint &#43; Goreleaser &#43; GitHub Actions &#43; Gitpod &#43; Depaware &#43; Git Hooks &#43; ...
+- [moul/u](https://github.com/moul/u) ([v1.25.1](https://github.com/moul/u/releases/tag/v1.25.1), 4 days ago) - Go common utility functions
 - [berty/go-ipfs-log](https://github.com/berty/go-ipfs-log) ([v1.4.1](https://github.com/berty/go-ipfs-log/releases/tag/v1.4.1), 1 week ago) - Go version of append-only log CRDT on IPFS
 - [moul/converter](https://github.com/moul/converter) ([v1.2.2](https://github.com/moul/converter/releases/tag/v1.2.2), 2 weeks ago) - :scissors: multiformat data conversion
 - [moul/bot](https://github.com/moul/bot) ([v1.9.12](https://github.com/moul/bot/releases/tag/v1.9.12), 2 weeks ago) - 🤖 my personal bot / virtual assistant (GitHub, Discord, HTTP&#43;gRPC API, Twitter, Coffee, etc)
@@ -37,7 +37,7 @@
 <li><a href="https://github.com/moul/sshportal">moul/sshportal</a> - :tophat: simple, fun and transparent SSH (and telnet) bastion server (2 months ago)</li>
 <li><a href="https://github.com/moul/assh">moul/assh</a> - :computer: make your ssh client smarter (2 months ago)</li>
 <li><a href="https://github.com/moul/zapring">moul/zapring</a> - 💍 In-memory RING buffer backend for the Zap logger (2 months ago)</li>
-<li><a href="https://github.com/moul/gotty-client">moul/gotty-client</a> - :wrench: terminal client for GoTTY (2 months ago)</li>
+<li><a href="https://github.com/moul/gotty-client">moul/gotty-client</a> - :wrench: terminal client for GoTTY (3 months ago)</li>
 <li><a href="https://github.com/moul/http2curl">moul/http2curl</a> - :triangular_ruler: Convert Golang&#39;s http.Request to CURL command line (3 months ago)</li>
 </ul>
 
