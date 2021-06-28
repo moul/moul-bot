@@ -22,7 +22,7 @@
 - [moul/bot](https://github.com/moul/bot) ([v1.9.12](https://github.com/moul/bot/releases/tag/v1.9.12), 2 weeks ago) - 🤖 my personal bot / virtual assistant (GitHub, Discord, HTTP&#43;gRPC API, Twitter, Coffee, etc)
 - [moul/pipotron](https://github.com/moul/pipotron) ([v1.13.4](https://github.com/moul/pipotron/releases/tag/v1.13.4), 2 weeks ago) - generic (&amp; funny?) text generator
 - [moul/sshportal](https://github.com/moul/sshportal) ([v1.18.4](https://github.com/moul/sshportal/releases/tag/v1.18.4), 2 weeks ago) - :tophat: simple, fun and transparent SSH (and telnet) bastion server
-- [moul/logman](https://github.com/moul/logman) ([v1.2.0](https://github.com/moul/logman/releases/tag/v1.2.0), 2 weeks ago) - log files management library optimized for &#34;Share with Developers&#34;
+- [moul/logman](https://github.com/moul/logman) ([v1.2.0](https://github.com/moul/logman/releases/tag/v1.2.0), 2 weeks ago) - ✍️ log files management library optimized for &#34;Share with Developers&#34;
 - [moul/totp-cli](https://github.com/moul/totp-cli) ([v1.0.0](https://github.com/moul/totp-cli/releases/tag/v1.0.0), 2 weeks ago) - 🔒 TOTP CLI
 
 
@@ -30,7 +30,7 @@
 <ul>
 
 <li><a href="https://github.com/moul/totp-cli">moul/totp-cli</a> - 🔒 TOTP CLI (2 weeks ago)</li>
-<li><a href="https://github.com/moul/logman">moul/logman</a> - log files management library optimized for &#34;Share with Developers&#34; (1 month ago)</li>
+<li><a href="https://github.com/moul/logman">moul/logman</a> - ✍️ log files management library optimized for &#34;Share with Developers&#34; (1 month ago)</li>
 <li><a href="https://github.com/moul/zapgorm2">moul/zapgorm2</a> - ⚡ zap logging driver for gorm v2 (1 month ago)</li>
 <li><a href="https://github.com/sgtm-club/sgtm">sgtm-club/sgtm</a> - 👍 An ongoing-song sharing platform for musicians (1 month ago)</li>
 <li><a href="https://github.com/moul/repoman">moul/repoman</a> - 📋 repo manager: some scripts I run against my repos (2 months ago)</li>
