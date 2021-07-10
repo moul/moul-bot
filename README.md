@@ -44,9 +44,9 @@
 <h4>👯 Check out some of my recent followers</h4>
 <ul>
 
+<li><a href="https://github.com/Novusvetus">Novusvetus</a>
 <li><a href="https://github.com/zfogg">zfogg</a>
 <li><a href="https://github.com/kocheko">kocheko</a>
 <li><a href="https://github.com/Lisprez">Lisprez</a>
 <li><a href="https://github.com/lucmichalski">lucmichalski</a>
-<li><a href="https://github.com/Sudomi">Sudomi</a>
 </ul>
