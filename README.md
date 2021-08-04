@@ -14,13 +14,13 @@
 - [moul-bot/depviz-test](https://github.com/moul-bot/depviz-test) - 
 
 #### 🔭 Recent Releases I Worked On
-- [moul/repoman](https://github.com/moul/repoman) ([v1.6.1](https://github.com/moul/repoman/releases/tag/v1.6.1), 5 days ago) - 📋 repo manager: some scripts I run against my repos
+- [moul/repoman](https://github.com/moul/repoman) ([v1.6.1](https://github.com/moul/repoman/releases/tag/v1.6.1), 6 days ago) - 📋 repo manager: some scripts I run against my repos
 - [moul/golang-repo-template](https://github.com/moul/golang-repo-template) ([v1.36.2](https://github.com/moul/golang-repo-template/releases/tag/v1.36.2), 1 week ago) - 🌀 A template for creating new Golang &#43; Docker &#43; Canonical Domain &#43; Badges &#43; Dependabot &#43; Renovate &#43; GolangCI-lint &#43; Goreleaser &#43; GitHub Actions &#43; Gitpod &#43; Depaware &#43; Git Hooks &#43; ...
 - [moul/zapring](https://github.com/moul/zapring) ([v1.3.1](https://github.com/moul/zapring/releases/tag/v1.3.1), 1 week ago) - 💍 In-memory RING buffer backend for the Zap logger
 - [moul/logman](https://github.com/moul/logman) ([v1.2.1](https://github.com/moul/logman/releases/tag/v1.2.1), 1 week ago) - ✍️ log files management library optimized for &#34;Share with Developers&#34;
 - [moul/converter](https://github.com/moul/converter) ([v1.2.3](https://github.com/moul/converter/releases/tag/v1.2.3), 1 week ago) - :scissors: multiformat data conversion
-- [moul/u](https://github.com/moul/u) ([v1.27.0](https://github.com/moul/u/releases/tag/v1.27.0), 3 weeks ago) - 🔬 Go common utility functions
-- [moul/bot](https://github.com/moul/bot) ([v1.9.13](https://github.com/moul/bot/releases/tag/v1.9.13), 3 weeks ago) - 🤖 my personal bot / virtual assistant (GitHub, Discord, HTTP&#43;gRPC API, Twitter, Coffee, etc)
+- [moul/u](https://github.com/moul/u) ([v1.27.0](https://github.com/moul/u/releases/tag/v1.27.0), 4 weeks ago) - 🔬 Go common utility functions
+- [moul/bot](https://github.com/moul/bot) ([v1.9.13](https://github.com/moul/bot/releases/tag/v1.9.13), 4 weeks ago) - 🤖 my personal bot / virtual assistant (GitHub, Discord, HTTP&#43;gRPC API, Twitter, Coffee, etc)
 - [moul/sshportal](https://github.com/moul/sshportal) ([v1.18.4](https://github.com/moul/sshportal/releases/tag/v1.18.4), 1 month ago) - :tophat: simple, fun and transparent SSH (and telnet) bastion server
 - [moul/totp-cli](https://github.com/moul/totp-cli) ([v1.0.0](https://github.com/moul/totp-cli/releases/tag/v1.0.0), 1 month ago) - 🔒 TOTP CLI
 - [moul/zapgorm](https://github.com/moul/zapgorm) ([v1.1.3](https://github.com/moul/zapgorm/releases/tag/v1.1.3), 1 month ago) - ⚡ Zap logger for GORM (support v1 and v2)
