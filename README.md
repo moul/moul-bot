@@ -20,8 +20,8 @@
 - [moul/zapring](https://github.com/moul/zapring) ([v1.3.2](https://github.com/moul/zapring/releases/tag/v1.3.2), 3 weeks ago) - 💍 In-memory RING buffer backend for the Zap logger
 - [moul/logman](https://github.com/moul/logman) ([v1.2.1](https://github.com/moul/logman/releases/tag/v1.2.1), 1 month ago) - ✍️ log files management library optimized for &#34;Share with Developers&#34;
 - [moul/converter](https://github.com/moul/converter) ([v1.2.3](https://github.com/moul/converter/releases/tag/v1.2.3), 1 month ago) - :scissors: multiformat data conversion
-- [moul/u](https://github.com/moul/u) ([v1.27.0](https://github.com/moul/u/releases/tag/v1.27.0), 1 month ago) - 🔬 Go common utility functions
-- [moul/bot](https://github.com/moul/bot) ([v1.9.13](https://github.com/moul/bot/releases/tag/v1.9.13), 1 month ago) - 🤖 my personal bot / virtual assistant (GitHub, Discord, HTTP&#43;gRPC API, Twitter, Coffee, etc)
+- [moul/u](https://github.com/moul/u) ([v1.27.0](https://github.com/moul/u/releases/tag/v1.27.0), 2 months ago) - 🔬 Go common utility functions
+- [moul/bot](https://github.com/moul/bot) ([v1.9.13](https://github.com/moul/bot/releases/tag/v1.9.13), 2 months ago) - 🤖 my personal bot / virtual assistant (GitHub, Discord, HTTP&#43;gRPC API, Twitter, Coffee, etc)
 - [moul/sshportal](https://github.com/moul/sshportal) ([v1.18.4](https://github.com/moul/sshportal/releases/tag/v1.18.4), 2 months ago) - :tophat: simple, fun and transparent SSH (and telnet) bastion server
 - [moul/totp-cli](https://github.com/moul/totp-cli) ([v1.0.0](https://github.com/moul/totp-cli/releases/tag/v1.0.0), 2 months ago) - 🔒 TOTP CLI
 
