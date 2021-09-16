@@ -14,8 +14,8 @@
 - [moul-bot/depviz-test](https://github.com/moul-bot/depviz-test) - 
 
 #### 🔭 Recent Releases I Worked On
+- [pathwar/pathwar](https://github.com/pathwar/pathwar) ([v2.74.0](https://github.com/pathwar/pathwar/releases/tag/v2.74.0), today) - ☠️ The Pathwar Project ☠️
 - [moul/golang-repo-template](https://github.com/moul/golang-repo-template) ([v1.36.5](https://github.com/moul/golang-repo-template/releases/tag/v1.36.5), 3 days ago) - 🌀 A template for creating new Golang &#43; Docker &#43; Canonical Domain &#43; Badges &#43; Dependabot &#43; Renovate &#43; GolangCI-lint &#43; Goreleaser &#43; GitHub Actions &#43; Gitpod &#43; Depaware &#43; Git Hooks &#43; ...
-- [pathwar/pathwar](https://github.com/pathwar/pathwar) ([v2.73.1](https://github.com/pathwar/pathwar/releases/tag/v2.73.1), 6 days ago) - ☠️ The Pathwar Project ☠️
 - [moul/repoman](https://github.com/moul/repoman) ([v1.6.2](https://github.com/moul/repoman/releases/tag/v1.6.2), 2 weeks ago) - 📋 repo manager: some scripts I run against my repos
 - [moul/http2curl](https://github.com/moul/http2curl) ([v2.2.3](https://github.com/moul/http2curl/releases/tag/v2.2.3), 3 weeks ago) - :triangular_ruler: Convert Golang&#39;s http.Request to CURL command line
 - [moul/zapring](https://github.com/moul/zapring) ([v1.3.2](https://github.com/moul/zapring/releases/tag/v1.3.2), 1 month ago) - 💍 In-memory RING buffer backend for the Zap logger
