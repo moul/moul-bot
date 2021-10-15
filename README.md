@@ -14,7 +14,7 @@
 - [moul-bot/depviz-test](https://github.com/moul-bot/depviz-test) - 
 
 #### 🔭 Recent Releases I Worked On
-- [moul/assh](https://github.com/moul/assh) ([v2.12.0](https://github.com/moul/assh/releases/tag/v2.12.0), today) - :computer: make your ssh client smarter
+- [moul/assh](https://github.com/moul/assh) ([v2.12.0](https://github.com/moul/assh/releases/tag/v2.12.0), 1 day ago) - :computer: make your ssh client smarter
 - [moul/bot](https://github.com/moul/bot) ([v1.9.16](https://github.com/moul/bot/releases/tag/v1.9.16), 2 weeks ago) - 🤖 my personal bot / virtual assistant (GitHub, Discord, HTTP&#43;gRPC API, Twitter, Coffee, etc)
 - [moul/repoman](https://github.com/moul/repoman) ([v1.6.3](https://github.com/moul/repoman/releases/tag/v1.6.3), 3 weeks ago) - 📋 repo manager: some scripts I run against my repos
 - [moul/http2curl](https://github.com/moul/http2curl) ([v2.2.4](https://github.com/moul/http2curl/releases/tag/v2.2.4), 3 weeks ago) - :triangular_ruler: Convert Golang&#39;s http.Request to CURL command line
