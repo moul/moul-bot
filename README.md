@@ -14,11 +14,11 @@
 - [moul-bot/depviz-test](https://github.com/moul-bot/depviz-test) - 
 
 #### 🔭 Recent Releases I Worked On
-- [moul/assh](https://github.com/moul/assh) ([v2.12.0](https://github.com/moul/assh/releases/tag/v2.12.0), 3 days ago) - :computer: make your ssh client smarter
+- [moul/assh](https://github.com/moul/assh) ([v2.12.0](https://github.com/moul/assh/releases/tag/v2.12.0), 4 days ago) - :computer: make your ssh client smarter
 - [moul/bot](https://github.com/moul/bot) ([v1.9.16](https://github.com/moul/bot/releases/tag/v1.9.16), 3 weeks ago) - 🤖 my personal bot / virtual assistant (GitHub, Discord, HTTP&#43;gRPC API, Twitter, Coffee, etc)
-- [moul/repoman](https://github.com/moul/repoman) ([v1.6.3](https://github.com/moul/repoman/releases/tag/v1.6.3), 3 weeks ago) - 📋 repo manager: some scripts I run against my repos
-- [moul/http2curl](https://github.com/moul/http2curl) ([v2.2.4](https://github.com/moul/http2curl/releases/tag/v2.2.4), 3 weeks ago) - :triangular_ruler: Convert Golang&#39;s http.Request to CURL command line
-- [moul/golang-repo-template](https://github.com/moul/golang-repo-template) ([v1.36.6](https://github.com/moul/golang-repo-template/releases/tag/v1.36.6), 4 weeks ago) - 🌀 A template for creating new Golang &#43; Docker &#43; Canonical Domain &#43; Badges &#43; Dependabot &#43; Renovate &#43; GolangCI-lint &#43; Goreleaser &#43; GitHub Actions &#43; Gitpod &#43; Depaware &#43; Git Hooks &#43; ...
+- [moul/repoman](https://github.com/moul/repoman) ([v1.6.3](https://github.com/moul/repoman/releases/tag/v1.6.3), 4 weeks ago) - 📋 repo manager: some scripts I run against my repos
+- [moul/http2curl](https://github.com/moul/http2curl) ([v2.2.4](https://github.com/moul/http2curl/releases/tag/v2.2.4), 4 weeks ago) - :triangular_ruler: Convert Golang&#39;s http.Request to CURL command line
+- [moul/golang-repo-template](https://github.com/moul/golang-repo-template) ([v1.36.6](https://github.com/moul/golang-repo-template/releases/tag/v1.36.6), 1 month ago) - 🌀 A template for creating new Golang &#43; Docker &#43; Canonical Domain &#43; Badges &#43; Dependabot &#43; Renovate &#43; GolangCI-lint &#43; Goreleaser &#43; GitHub Actions &#43; Gitpod &#43; Depaware &#43; Git Hooks &#43; ...
 - [pathwar/pathwar](https://github.com/pathwar/pathwar) ([v2.74.0](https://github.com/pathwar/pathwar/releases/tag/v2.74.0), 1 month ago) - ☠️ The Pathwar Project ☠️
 - [moul/zapring](https://github.com/moul/zapring) ([v1.3.2](https://github.com/moul/zapring/releases/tag/v1.3.2), 2 months ago) - 💍 In-memory RING buffer backend for the Zap logger
 - [moul/logman](https://github.com/moul/logman) ([v1.2.1](https://github.com/moul/logman/releases/tag/v1.2.1), 2 months ago) - ✍️ log files management library optimized for &#34;Share with Developers&#34;
