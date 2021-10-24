@@ -14,7 +14,7 @@
 - [moul-bot/depviz-test](https://github.com/moul-bot/depviz-test) - 
 
 #### 🔭 Recent Releases I Worked On
-- [moul/zapring](https://github.com/moul/zapring) ([v1.3.3](https://github.com/moul/zapring/releases/tag/v1.3.3), 2 days ago) - 💍 In-memory RING buffer backend for the Zap logger
+- [moul/zapring](https://github.com/moul/zapring) ([v1.3.3](https://github.com/moul/zapring/releases/tag/v1.3.3), 3 days ago) - 💍 In-memory RING buffer backend for the Zap logger
 - [moul/assh](https://github.com/moul/assh) ([v2.12.0](https://github.com/moul/assh/releases/tag/v2.12.0), 1 week ago) - :computer: make your ssh client smarter
 - [moul/bot](https://github.com/moul/bot) ([v1.9.16](https://github.com/moul/bot/releases/tag/v1.9.16), 4 weeks ago) - 🤖 my personal bot / virtual assistant (GitHub, Discord, HTTP&#43;gRPC API, Twitter, Coffee, etc)
 - [moul/repoman](https://github.com/moul/repoman) ([v1.6.3](https://github.com/moul/repoman/releases/tag/v1.6.3), 1 month ago) - 📋 repo manager: some scripts I run against my repos
@@ -30,7 +30,7 @@
 <ul>
 
 <li><a href="https://github.com/moul/totp-cli">moul/totp-cli</a> - 🔒 TOTP CLI (4 months ago)</li>
-<li><a href="https://github.com/moul/logman">moul/logman</a> - ✍️ log files management library optimized for &#34;Share with Developers&#34; (4 months ago)</li>
+<li><a href="https://github.com/moul/logman">moul/logman</a> - ✍️ log files management library optimized for &#34;Share with Developers&#34; (5 months ago)</li>
 <li><a href="https://github.com/moul/zapgorm2">moul/zapgorm2</a> - ⚡ zap logging driver for gorm v2 (5 months ago)</li>
 <li><a href="https://github.com/sgtm-club/sgtm">sgtm-club/sgtm</a> - 👍 An ongoing-song sharing platform for musicians (5 months ago)</li>
 <li><a href="https://github.com/moul/sshportal">moul/sshportal</a> - :tophat: simple, fun and transparent SSH (and telnet) bastion server (6 months ago)</li>
@@ -38,7 +38,7 @@
 <li><a href="https://github.com/moul/assh">moul/assh</a> - :computer: make your ssh client smarter (6 months ago)</li>
 <li><a href="https://github.com/moul/zapring">moul/zapring</a> - 💍 In-memory RING buffer backend for the Zap logger (6 months ago)</li>
 <li><a href="https://github.com/moul/gotty-client">moul/gotty-client</a> - :wrench: terminal client for GoTTY (6 months ago)</li>
-<li><a href="https://github.com/moul/http2curl">moul/http2curl</a> - :triangular_ruler: Convert Golang&#39;s http.Request to CURL command line (6 months ago)</li>
+<li><a href="https://github.com/moul/http2curl">moul/http2curl</a> - :triangular_ruler: Convert Golang&#39;s http.Request to CURL command line (7 months ago)</li>
 </ul>
 
 <h4>👯 Check out some of my recent followers</h4>
