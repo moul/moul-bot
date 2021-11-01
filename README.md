@@ -14,6 +14,7 @@
 - [moul-bot/depviz-test](https://github.com/moul-bot/depviz-test) - 
 
 #### 🔭 Recent Releases I Worked On
+- [moul/number-to-words](https://github.com/moul/number-to-words) ([v0.7.0](https://github.com/moul/number-to-words/releases/tag/v0.7.0), today) - convert number into words (english, french, italian, roman, spanish, portuguese, belgium, dutch, swedish, polish, russian, iranian, roman, aegean)
 - [moul/zapring](https://github.com/moul/zapring) ([v1.3.3](https://github.com/moul/zapring/releases/tag/v1.3.3), 1 week ago) - 💍 In-memory RING buffer backend for the Zap logger
 - [moul/assh](https://github.com/moul/assh) ([v2.12.0](https://github.com/moul/assh/releases/tag/v2.12.0), 2 weeks ago) - :computer: make your ssh client smarter
 - [moul/bot](https://github.com/moul/bot) ([v1.9.16](https://github.com/moul/bot/releases/tag/v1.9.16), 1 month ago) - 🤖 my personal bot / virtual assistant (GitHub, Discord, HTTP&#43;gRPC API, Twitter, Coffee, etc)
@@ -23,7 +24,6 @@
 - [pathwar/pathwar](https://github.com/pathwar/pathwar) ([v2.74.0](https://github.com/pathwar/pathwar/releases/tag/v2.74.0), 1 month ago) - ☠️ The Pathwar Project ☠️
 - [moul/logman](https://github.com/moul/logman) ([v1.2.1](https://github.com/moul/logman/releases/tag/v1.2.1), 3 months ago) - ✍️ log files management library optimized for &#34;Share with Developers&#34;
 - [moul/converter](https://github.com/moul/converter) ([v1.2.3](https://github.com/moul/converter/releases/tag/v1.2.3), 3 months ago) - :scissors: multiformat data conversion
-- [moul/u](https://github.com/moul/u) ([v1.27.0](https://github.com/moul/u/releases/tag/v1.27.0), 3 months ago) - 🔬 Go common utility functions
 
 
 <h4>👷 Check out what I'm currently working on</h4>
