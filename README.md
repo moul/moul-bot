@@ -14,9 +14,9 @@
 - [moul-bot/depviz-test](https://github.com/moul-bot/depviz-test) - 
 
 #### 🔭 Recent Releases I Worked On
-- [moul/sshportal](https://github.com/moul/sshportal) ([v1.18.5](https://github.com/moul/sshportal/releases/tag/v1.18.5), 5 days ago) - :tophat: simple, fun and transparent SSH (and telnet) bastion server
-- [moul/repoman](https://github.com/moul/repoman) ([v1.6.4](https://github.com/moul/repoman/releases/tag/v1.6.4), 5 days ago) - 📋 repo manager: some scripts I run against my repos
-- [moul/logman](https://github.com/moul/logman) ([v1.2.2](https://github.com/moul/logman/releases/tag/v1.2.2), 5 days ago) - ✍️ log files management library optimized for &#34;Share with Developers&#34;
+- [moul/sshportal](https://github.com/moul/sshportal) ([v1.18.5](https://github.com/moul/sshportal/releases/tag/v1.18.5), 6 days ago) - :tophat: simple, fun and transparent SSH (and telnet) bastion server
+- [moul/repoman](https://github.com/moul/repoman) ([v1.6.4](https://github.com/moul/repoman/releases/tag/v1.6.4), 6 days ago) - 📋 repo manager: some scripts I run against my repos
+- [moul/logman](https://github.com/moul/logman) ([v1.2.2](https://github.com/moul/logman/releases/tag/v1.2.2), 6 days ago) - ✍️ log files management library optimized for &#34;Share with Developers&#34;
 - [moul/zapring](https://github.com/moul/zapring) ([v1.3.4](https://github.com/moul/zapring/releases/tag/v1.3.4), 1 week ago) - 💍 In-memory RING buffer backend for the Zap logger
 - [moul/zapgorm2](https://github.com/moul/zapgorm2) ([v1.1.1](https://github.com/moul/zapgorm2/releases/tag/v1.1.1), 1 week ago) - ⚡ zap logging driver for gorm v2
 - [moul/golang-repo-template](https://github.com/moul/golang-repo-template) ([v1.36.8](https://github.com/moul/golang-repo-template/releases/tag/v1.36.8), 3 weeks ago) - 🌀 A template for creating new Golang &#43; Docker &#43; Canonical Domain &#43; Badges &#43; Dependabot &#43; Renovate &#43; GolangCI-lint &#43; Goreleaser &#43; GitHub Actions &#43; Gitpod &#43; Depaware &#43; Git Hooks &#43; ...
