@@ -22,7 +22,7 @@
 - [moul/zapgorm2](https://github.com/moul/zapgorm2) ([v1.1.1](https://github.com/moul/zapgorm2/releases/tag/v1.1.1), 1 month ago) - ⚡ zap logging driver for gorm v2
 - [moul/assh](https://github.com/moul/assh) ([v2.12.0](https://github.com/moul/assh/releases/tag/v2.12.0), 2 months ago) - :computer: make your ssh client smarter
 - [moul/http2curl](https://github.com/moul/http2curl) ([v2.2.4](https://github.com/moul/http2curl/releases/tag/v2.2.4), 2 months ago) - :triangular_ruler: Convert Golang&#39;s http.Request to CURL command line
-- [pathwar/pathwar](https://github.com/pathwar/pathwar) ([v2.74.0](https://github.com/pathwar/pathwar/releases/tag/v2.74.0), 2 months ago) - ☠️ The Pathwar Project ☠️
+- [pathwar/pathwar](https://github.com/pathwar/pathwar) ([v2.74.0](https://github.com/pathwar/pathwar/releases/tag/v2.74.0), 3 months ago) - ☠️ The Pathwar Project ☠️
 - [moul/u](https://github.com/moul/u) ([v1.27.0](https://github.com/moul/u/releases/tag/v1.27.0), 5 months ago) - 🔬 Go common utility functions
 
 
