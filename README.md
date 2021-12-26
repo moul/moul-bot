@@ -14,7 +14,7 @@
 - [moul-bot/depviz-test](https://github.com/moul-bot/depviz-test) - 
 
 #### 🔭 Recent Releases I Worked On
-- [moul/zapring](https://github.com/moul/zapring) ([v1.3.5](https://github.com/moul/zapring/releases/tag/v1.3.5), 1 day ago) - 💍 In-memory RING buffer backend for the Zap logger
+- [moul/zapring](https://github.com/moul/zapring) ([v1.3.5](https://github.com/moul/zapring/releases/tag/v1.3.5), 2 days ago) - 💍 In-memory RING buffer backend for the Zap logger
 - [moul/repoman](https://github.com/moul/repoman) ([v1.6.5](https://github.com/moul/repoman/releases/tag/v1.6.5), 1 week ago) - 📋 repo manager: some scripts I run against my repos
 - [moul/golang-repo-template](https://github.com/moul/golang-repo-template) ([v1.36.9](https://github.com/moul/golang-repo-template/releases/tag/v1.36.9), 2 weeks ago) - 🌀 A template for creating new Golang &#43; Docker &#43; Canonical Domain &#43; Badges &#43; Dependabot &#43; Renovate &#43; GolangCI-lint &#43; Goreleaser &#43; GitHub Actions &#43; Gitpod &#43; Depaware &#43; Git Hooks &#43; ...
 - [moul/sshportal](https://github.com/moul/sshportal) ([v1.18.5](https://github.com/moul/sshportal/releases/tag/v1.18.5), 1 month ago) - :tophat: simple, fun and transparent SSH (and telnet) bastion server
@@ -32,7 +32,7 @@
 <li><a href="https://github.com/moul/totp-cli">moul/totp-cli</a> - 🔒 TOTP CLI (6 months ago)</li>
 <li><a href="https://github.com/moul/logman">moul/logman</a> - ✍️ log files management library optimized for &#34;Share with Developers&#34; (7 months ago)</li>
 <li><a href="https://github.com/moul/zapgorm2">moul/zapgorm2</a> - ⚡ zap logging driver for gorm v2 (7 months ago)</li>
-<li><a href="https://github.com/sgtm-club/sgtm">sgtm-club/sgtm</a> - 👍 An ongoing-song sharing platform for musicians (7 months ago)</li>
+<li><a href="https://github.com/sgtm-club/sgtm">sgtm-club/sgtm</a> - 👍 An ongoing-song sharing platform for musicians (8 months ago)</li>
 <li><a href="https://github.com/moul/sshportal">moul/sshportal</a> - :tophat: simple, fun and transparent SSH (and telnet) bastion server (8 months ago)</li>
 <li><a href="https://github.com/moul/repoman">moul/repoman</a> - 📋 repo manager: some scripts I run against my repos (8 months ago)</li>
 <li><a href="https://github.com/moul/assh">moul/assh</a> - :computer: make your ssh client smarter (8 months ago)</li>
