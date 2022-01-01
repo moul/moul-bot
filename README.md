@@ -23,7 +23,7 @@
 - [moul/zapgorm2](https://github.com/moul/zapgorm2) ([v1.1.1](https://github.com/moul/zapgorm2/releases/tag/v1.1.1), 1 month ago) - ⚡ zap logging driver for gorm v2
 - [moul/assh](https://github.com/moul/assh) ([v2.12.0](https://github.com/moul/assh/releases/tag/v2.12.0), 2 months ago) - :computer: make your ssh client smarter
 - [pathwar/pathwar](https://github.com/pathwar/pathwar) ([v2.74.0](https://github.com/pathwar/pathwar/releases/tag/v2.74.0), 3 months ago) - ☠️ The Pathwar Project ☠️
-- [moul/u](https://github.com/moul/u) ([v1.27.0](https://github.com/moul/u/releases/tag/v1.27.0), 5 months ago) - 🔬 Go common utility functions
+- [moul/totp-cli](https://github.com/moul/totp-cli) ([v1.0.0](https://github.com/moul/totp-cli/releases/tag/v1.0.0), 6 months ago) - 🔒 TOTP CLI
 
 
 <h4>👷 Check out what I'm currently working on</h4>
