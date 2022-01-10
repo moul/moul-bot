@@ -14,7 +14,7 @@
 - [moul-bot/depviz-test](https://github.com/moul-bot/depviz-test) - 
 
 #### 🔭 Recent Releases I Worked On
-- [moul/assh](https://github.com/moul/assh) ([v2.12.2](https://github.com/moul/assh/releases/tag/v2.12.2), 6 days ago) - :computer: make your ssh client smarter
+- [moul/assh](https://github.com/moul/assh) ([v2.12.2](https://github.com/moul/assh/releases/tag/v2.12.2), 1 week ago) - :computer: make your ssh client smarter
 - [moul/logman](https://github.com/moul/logman) ([v1.2.3](https://github.com/moul/logman/releases/tag/v1.2.3), 1 week ago) - ✍️ log files management library optimized for &#34;Share with Developers&#34;
 - [moul/http2curl](https://github.com/moul/http2curl) ([v2.2.5](https://github.com/moul/http2curl/releases/tag/v2.2.5), 1 week ago) - :triangular_ruler: Convert Golang&#39;s http.Request to CURL command line
 - [moul/zapring](https://github.com/moul/zapring) ([v1.3.5](https://github.com/moul/zapring/releases/tag/v1.3.5), 2 weeks ago) - 💍 In-memory RING buffer backend for the Zap logger
