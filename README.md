@@ -21,7 +21,7 @@
 - [moul/repoman](https://github.com/moul/repoman) ([v1.6.5](https://github.com/moul/repoman/releases/tag/v1.6.5), 3 weeks ago) - 📋 repo manager: some scripts I run against my repos
 - [moul/golang-repo-template](https://github.com/moul/golang-repo-template) ([v1.36.9](https://github.com/moul/golang-repo-template/releases/tag/v1.36.9), 1 month ago) - 🌀 A template for creating new Golang &#43; Docker &#43; Canonical Domain &#43; Badges &#43; Dependabot &#43; Renovate &#43; GolangCI-lint &#43; Goreleaser &#43; GitHub Actions &#43; Gitpod &#43; Depaware &#43; Git Hooks &#43; ...
 - [moul/sshportal](https://github.com/moul/sshportal) ([v1.18.5](https://github.com/moul/sshportal/releases/tag/v1.18.5), 1 month ago) - :tophat: simple, fun and transparent SSH (and telnet) bastion server
-- [moul/zapgorm2](https://github.com/moul/zapgorm2) ([v1.1.1](https://github.com/moul/zapgorm2/releases/tag/v1.1.1), 1 month ago) - ⚡ zap logging driver for gorm v2
+- [moul/zapgorm2](https://github.com/moul/zapgorm2) ([v1.1.1](https://github.com/moul/zapgorm2/releases/tag/v1.1.1), 2 months ago) - ⚡ zap logging driver for gorm v2
 - [pathwar/pathwar](https://github.com/pathwar/pathwar) ([v2.74.0](https://github.com/pathwar/pathwar/releases/tag/v2.74.0), 3 months ago) - ☠️ The Pathwar Project ☠️
 - [moul/totp-cli](https://github.com/moul/totp-cli) ([v1.0.0](https://github.com/moul/totp-cli/releases/tag/v1.0.0), 7 months ago) - 🔒 TOTP CLI
 
