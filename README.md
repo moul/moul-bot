@@ -14,7 +14,7 @@
 - [moul-bot/depviz-test](https://github.com/moul-bot/depviz-test) - 
 
 #### 🔭 Recent Releases I Worked On
-- [moul/golang-repo-template](https://github.com/moul/golang-repo-template) ([v1.36.10](https://github.com/moul/golang-repo-template/releases/tag/v1.36.10), 1 day ago) - 🌀 A template for creating new Golang &#43; Docker &#43; Canonical Domain &#43; Badges &#43; Dependabot &#43; Renovate &#43; GolangCI-lint &#43; Goreleaser &#43; GitHub Actions &#43; Gitpod &#43; Depaware &#43; Git Hooks &#43; ...
+- [moul/golang-repo-template](https://github.com/moul/golang-repo-template) ([v1.36.10](https://github.com/moul/golang-repo-template/releases/tag/v1.36.10), 2 days ago) - 🌀 A template for creating new Golang &#43; Docker &#43; Canonical Domain &#43; Badges &#43; Dependabot &#43; Renovate &#43; GolangCI-lint &#43; Goreleaser &#43; GitHub Actions &#43; Gitpod &#43; Depaware &#43; Git Hooks &#43; ...
 - [moul/assh](https://github.com/moul/assh) ([v2.12.2](https://github.com/moul/assh/releases/tag/v2.12.2), 2 weeks ago) - :computer: make your ssh client smarter
 - [moul/logman](https://github.com/moul/logman) ([v1.2.3](https://github.com/moul/logman/releases/tag/v1.2.3), 2 weeks ago) - ✍️ log files management library optimized for &#34;Share with Developers&#34;
 - [moul/http2curl](https://github.com/moul/http2curl) ([v2.2.5](https://github.com/moul/http2curl/releases/tag/v2.2.5), 2 weeks ago) - :triangular_ruler: Convert Golang&#39;s http.Request to CURL command line
