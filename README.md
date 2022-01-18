@@ -22,8 +22,8 @@
 - [moul/repoman](https://github.com/moul/repoman) ([v1.6.5](https://github.com/moul/repoman/releases/tag/v1.6.5), 1 month ago) - 📋 repo manager: some scripts I run against my repos
 - [moul/sshportal](https://github.com/moul/sshportal) ([v1.18.5](https://github.com/moul/sshportal/releases/tag/v1.18.5), 1 month ago) - :tophat: simple, fun and transparent SSH (and telnet) bastion server
 - [moul/zapgorm2](https://github.com/moul/zapgorm2) ([v1.1.1](https://github.com/moul/zapgorm2/releases/tag/v1.1.1), 2 months ago) - ⚡ zap logging driver for gorm v2
-- [pathwar/pathwar](https://github.com/pathwar/pathwar) ([v2.74.0](https://github.com/pathwar/pathwar/releases/tag/v2.74.0), 4 months ago) - ☠️ The Pathwar Project ☠️
 - [moul/totp-cli](https://github.com/moul/totp-cli) ([v1.0.0](https://github.com/moul/totp-cli/releases/tag/v1.0.0), 7 months ago) - 🔒 TOTP CLI
+- [moul/grpcbin](https://github.com/moul/grpcbin) ([v1.0.8](https://github.com/moul/grpcbin/releases/tag/v1.0.8), 8 months ago) - httpbin like for gRPC
 
 
 <h4>👷 Check out what I'm currently working on</h4>
