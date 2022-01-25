@@ -14,10 +14,10 @@
 - [moul-bot/depviz-test](https://github.com/moul-bot/depviz-test) - 
 
 #### 🔭 Recent Releases I Worked On
-- [moul/zapgorm2](https://github.com/moul/zapgorm2) ([v1.1.2](https://github.com/moul/zapgorm2/releases/tag/v1.1.2), today) - ⚡ zap logging driver for gorm v2
-- [moul/repoman](https://github.com/moul/repoman) ([v1.6.6](https://github.com/moul/repoman/releases/tag/v1.6.6), today) - 📋 repo manager: some scripts I run against my repos
-- [moul/sshportal](https://github.com/moul/sshportal) ([v1.19.0](https://github.com/moul/sshportal/releases/tag/v1.19.0), 4 days ago) - :tophat: simple, fun and transparent SSH (and telnet) bastion server
-- [moul/http2curl](https://github.com/moul/http2curl) ([v2.2.6](https://github.com/moul/http2curl/releases/tag/v2.2.6), 4 days ago) - :triangular_ruler: Convert Golang&#39;s http.Request to CURL command line
+- [moul/zapgorm2](https://github.com/moul/zapgorm2) ([v1.1.2](https://github.com/moul/zapgorm2/releases/tag/v1.1.2), 1 day ago) - ⚡ zap logging driver for gorm v2
+- [moul/repoman](https://github.com/moul/repoman) ([v1.6.6](https://github.com/moul/repoman/releases/tag/v1.6.6), 1 day ago) - 📋 repo manager: some scripts I run against my repos
+- [moul/sshportal](https://github.com/moul/sshportal) ([v1.19.0](https://github.com/moul/sshportal/releases/tag/v1.19.0), 5 days ago) - :tophat: simple, fun and transparent SSH (and telnet) bastion server
+- [moul/http2curl](https://github.com/moul/http2curl) ([v2.2.6](https://github.com/moul/http2curl/releases/tag/v2.2.6), 5 days ago) - :triangular_ruler: Convert Golang&#39;s http.Request to CURL command line
 - [moul/golang-repo-template](https://github.com/moul/golang-repo-template) ([v1.36.10](https://github.com/moul/golang-repo-template/releases/tag/v1.36.10), 1 week ago) - 🌀 A template for creating new Golang &#43; Docker &#43; Canonical Domain &#43; Badges &#43; Dependabot &#43; Renovate &#43; GolangCI-lint &#43; Goreleaser &#43; GitHub Actions &#43; Gitpod &#43; Depaware &#43; Git Hooks &#43; ...
 - [moul/assh](https://github.com/moul/assh) ([v2.12.2](https://github.com/moul/assh/releases/tag/v2.12.2), 3 weeks ago) - :computer: make your ssh client smarter
 - [moul/logman](https://github.com/moul/logman) ([v1.2.3](https://github.com/moul/logman/releases/tag/v1.2.3), 3 weeks ago) - ✍️ log files management library optimized for &#34;Share with Developers&#34;
@@ -32,7 +32,7 @@
 <li><a href="https://github.com/moul/totp-cli">moul/totp-cli</a> - 🔒 TOTP CLI (7 months ago)</li>
 <li><a href="https://github.com/moul/logman">moul/logman</a> - ✍️ log files management library optimized for &#34;Share with Developers&#34; (8 months ago)</li>
 <li><a href="https://github.com/moul/zapgorm2">moul/zapgorm2</a> - ⚡ zap logging driver for gorm v2 (8 months ago)</li>
-<li><a href="https://github.com/sgtm-club/sgtm">sgtm-club/sgtm</a> - 👍 An ongoing-song sharing platform for musicians (8 months ago)</li>
+<li><a href="https://github.com/sgtm-club/sgtm">sgtm-club/sgtm</a> - 👍 An ongoing-song sharing platform for musicians (9 months ago)</li>
 <li><a href="https://github.com/moul/repoman">moul/repoman</a> - 📋 repo manager: some scripts I run against my repos (9 months ago)</li>
 <li><a href="https://github.com/moul/sshportal">moul/sshportal</a> - :tophat: simple, fun and transparent SSH (and telnet) bastion server (9 months ago)</li>
 <li><a href="https://github.com/moul/zapring">moul/zapring</a> - 💍 In-memory RING buffer backend for the Zap logger (9 months ago)</li>
