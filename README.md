@@ -14,7 +14,7 @@
 - [moul-bot/depviz-test](https://github.com/moul-bot/depviz-test) - 
 
 #### 🔭 Recent Releases I Worked On
-- [moul/zapgorm2](https://github.com/moul/zapgorm2) ([v1.1.3](https://github.com/moul/zapgorm2/releases/tag/v1.1.3), 1 day ago) - ⚡ zap logging driver for gorm v2
+- [moul/zapgorm2](https://github.com/moul/zapgorm2) ([v1.1.3](https://github.com/moul/zapgorm2/releases/tag/v1.1.3), 2 days ago) - ⚡ zap logging driver for gorm v2
 - [moul/sshportal](https://github.com/moul/sshportal) ([v1.19.3](https://github.com/moul/sshportal/releases/tag/v1.19.3), 1 week ago) - :tophat: simple, fun and transparent SSH (and telnet) bastion server
 - [moul/repoman](https://github.com/moul/repoman) ([v1.6.8](https://github.com/moul/repoman/releases/tag/v1.6.8), 1 week ago) - 📋 repo manager: some scripts I run against my repos
 - [moul/http2curl](https://github.com/moul/http2curl) ([v2.2.6](https://github.com/moul/http2curl/releases/tag/v2.2.6), 1 month ago) - :triangular_ruler: Convert Golang&#39;s http.Request to CURL command line
@@ -30,7 +30,7 @@
 <ul>
 
 <li><a href="https://github.com/moul/totp-cli">moul/totp-cli</a> - 🔒 TOTP CLI (8 months ago)</li>
-<li><a href="https://github.com/moul/logman">moul/logman</a> - ✍️ log files management library optimized for &#34;Share with Developers&#34; (8 months ago)</li>
+<li><a href="https://github.com/moul/logman">moul/logman</a> - ✍️ log files management library optimized for &#34;Share with Developers&#34; (9 months ago)</li>
 <li><a href="https://github.com/moul/zapgorm2">moul/zapgorm2</a> - ⚡ zap logging driver for gorm v2 (9 months ago)</li>
 <li><a href="https://github.com/sgtm-club/sgtm">sgtm-club/sgtm</a> - 👍 An ongoing-song sharing platform for musicians (9 months ago)</li>
 <li><a href="https://github.com/moul/sshportal">moul/sshportal</a> - :tophat: simple, fun and transparent SSH (and telnet) bastion server (10 months ago)</li>
@@ -38,7 +38,7 @@
 <li><a href="https://github.com/moul/zapring">moul/zapring</a> - 💍 In-memory RING buffer backend for the Zap logger (10 months ago)</li>
 <li><a href="https://github.com/moul/assh">moul/assh</a> - :computer: make your ssh client smarter (10 months ago)</li>
 <li><a href="https://github.com/moul/gotty-client">moul/gotty-client</a> - :wrench: terminal client for GoTTY (10 months ago)</li>
-<li><a href="https://github.com/moul/http2curl">moul/http2curl</a> - :triangular_ruler: Convert Golang&#39;s http.Request to CURL command line (10 months ago)</li>
+<li><a href="https://github.com/moul/http2curl">moul/http2curl</a> - :triangular_ruler: Convert Golang&#39;s http.Request to CURL command line (11 months ago)</li>
 </ul>
 
 <h4>👯 Check out some of my recent followers</h4>
