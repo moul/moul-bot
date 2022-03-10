@@ -15,8 +15,8 @@
 
 #### 🔭 Recent Releases I Worked On
 - [moul/zapgorm2](https://github.com/moul/zapgorm2) ([v1.1.3](https://github.com/moul/zapgorm2/releases/tag/v1.1.3), 2 weeks ago) - ⚡ zap logging driver for gorm v2
-- [moul/sshportal](https://github.com/moul/sshportal) ([v1.19.3](https://github.com/moul/sshportal/releases/tag/v1.19.3), 4 weeks ago) - :tophat: simple, fun and transparent SSH (and telnet) bastion server
-- [moul/repoman](https://github.com/moul/repoman) ([v1.6.8](https://github.com/moul/repoman/releases/tag/v1.6.8), 4 weeks ago) - 📋 repo manager: some scripts I run against my repos
+- [moul/sshportal](https://github.com/moul/sshportal) ([v1.19.3](https://github.com/moul/sshportal/releases/tag/v1.19.3), 1 month ago) - :tophat: simple, fun and transparent SSH (and telnet) bastion server
+- [moul/repoman](https://github.com/moul/repoman) ([v1.6.8](https://github.com/moul/repoman/releases/tag/v1.6.8), 1 month ago) - 📋 repo manager: some scripts I run against my repos
 - [moul/http2curl](https://github.com/moul/http2curl) ([v2.2.6](https://github.com/moul/http2curl/releases/tag/v2.2.6), 1 month ago) - :triangular_ruler: Convert Golang&#39;s http.Request to CURL command line
 - [moul/assh](https://github.com/moul/assh) ([v2.12.2](https://github.com/moul/assh/releases/tag/v2.12.2), 2 months ago) - :computer: make your ssh client smarter
 - [moul/logman](https://github.com/moul/logman) ([v1.2.3](https://github.com/moul/logman/releases/tag/v1.2.3), 2 months ago) - ✍️ log files management library optimized for &#34;Share with Developers&#34;
