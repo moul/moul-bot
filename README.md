@@ -22,7 +22,7 @@
 - [moul/logman](https://github.com/moul/logman) ([v1.2.3](https://github.com/moul/logman/releases/tag/v1.2.3), 2 months ago) - ✍️ log files management library optimized for &#34;Share with Developers&#34;
 - [moul/zapring](https://github.com/moul/zapring) ([v1.3.5](https://github.com/moul/zapring/releases/tag/v1.3.5), 2 months ago) - 💍 In-memory RING buffer backend for the Zap logger
 - [moul/totp-cli](https://github.com/moul/totp-cli) ([v1.0.0](https://github.com/moul/totp-cli/releases/tag/v1.0.0), 9 months ago) - 🔒 TOTP CLI
-- [sgtm-club/sgtm](https://github.com/sgtm-club/sgtm) ([v1.54.2](https://github.com/sgtm-club/sgtm/releases/tag/v1.54.2), 10 months ago) - 👍 An ongoing-song sharing platform for musicians
+- [sgtm-club/sgtm](https://github.com/sgtm-club/sgtm) ([v1.54.2](https://github.com/sgtm-club/sgtm/releases/tag/v1.54.2), 11 months ago) - 👍 An ongoing-song sharing platform for musicians
 - [moul/gotty-client](https://github.com/moul/gotty-client) ([v1.10.0](https://github.com/moul/gotty-client/releases/tag/v1.10.0), 11 months ago) - :wrench: terminal client for GoTTY
 
 
