@@ -20,10 +20,10 @@
 - [moul/repoman](https://github.com/moul/repoman) ([v1.6.8](https://github.com/moul/repoman/releases/tag/v1.6.8), 1 month ago) - 📋 repo manager: some scripts I run against my repos
 - [moul/assh](https://github.com/moul/assh) ([v2.12.2](https://github.com/moul/assh/releases/tag/v2.12.2), 2 months ago) - :computer: make your ssh client smarter
 - [moul/logman](https://github.com/moul/logman) ([v1.2.3](https://github.com/moul/logman/releases/tag/v1.2.3), 2 months ago) - ✍️ log files management library optimized for &#34;Share with Developers&#34;
-- [moul/zapring](https://github.com/moul/zapring) ([v1.3.5](https://github.com/moul/zapring/releases/tag/v1.3.5), 2 months ago) - 💍 In-memory RING buffer backend for the Zap logger
+- [moul/zapring](https://github.com/moul/zapring) ([v1.3.5](https://github.com/moul/zapring/releases/tag/v1.3.5), 3 months ago) - 💍 In-memory RING buffer backend for the Zap logger
 - [moul/totp-cli](https://github.com/moul/totp-cli) ([v1.0.0](https://github.com/moul/totp-cli/releases/tag/v1.0.0), 9 months ago) - 🔒 TOTP CLI
 - [sgtm-club/sgtm](https://github.com/sgtm-club/sgtm) ([v1.54.2](https://github.com/sgtm-club/sgtm/releases/tag/v1.54.2), 11 months ago) - 👍 An ongoing-song sharing platform for musicians
-- [moul/gotty-client](https://github.com/moul/gotty-client) ([v1.10.0](https://github.com/moul/gotty-client/releases/tag/v1.10.0), 11 months ago) - :wrench: terminal client for GoTTY
+- [moul/gotty-client](https://github.com/moul/gotty-client) ([v1.10.0](https://github.com/moul/gotty-client/releases/tag/v1.10.0), 1 year ago) - :wrench: terminal client for GoTTY
 
 
 <h4>👷 Check out what I'm currently working on</h4>
@@ -37,7 +37,7 @@
 <li><a href="https://github.com/moul/repoman">moul/repoman</a> - 📋 repo manager: some scripts I run against my repos (11 months ago)</li>
 <li><a href="https://github.com/moul/zapring">moul/zapring</a> - 💍 In-memory RING buffer backend for the Zap logger (11 months ago)</li>
 <li><a href="https://github.com/moul/assh">moul/assh</a> - :computer: make your ssh client smarter (11 months ago)</li>
-<li><a href="https://github.com/moul/gotty-client">moul/gotty-client</a> - :wrench: terminal client for GoTTY (11 months ago)</li>
+<li><a href="https://github.com/moul/gotty-client">moul/gotty-client</a> - :wrench: terminal client for GoTTY (1 year ago)</li>
 <li><a href="https://github.com/moul/http2curl">moul/http2curl</a> - :triangular_ruler: Convert Golang&#39;s http.Request to CURL command line (1 year ago)</li>
 </ul>
 
