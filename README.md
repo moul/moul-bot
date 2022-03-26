@@ -14,7 +14,7 @@
 - [moul-bot/depviz-test](https://github.com/moul-bot/depviz-test) - 
 
 #### 🔭 Recent Releases I Worked On
-- [moul/http2curl](https://github.com/moul/http2curl) ([v2.3.0](https://github.com/moul/http2curl/releases/tag/v2.3.0), 1 week ago) - :triangular_ruler: Convert Golang&#39;s http.Request to CURL command line
+- [moul/http2curl](https://github.com/moul/http2curl) ([v2.3.0](https://github.com/moul/http2curl/releases/tag/v2.3.0), 2 weeks ago) - :triangular_ruler: Convert Golang&#39;s http.Request to CURL command line
 - [moul/zapgorm2](https://github.com/moul/zapgorm2) ([v1.1.3](https://github.com/moul/zapgorm2/releases/tag/v1.1.3), 1 month ago) - ⚡ zap logging driver for gorm v2
 - [moul/sshportal](https://github.com/moul/sshportal) ([v1.19.3](https://github.com/moul/sshportal/releases/tag/v1.19.3), 1 month ago) - :tophat: simple, fun and transparent SSH (and telnet) bastion server
 - [moul/repoman](https://github.com/moul/repoman) ([v1.6.8](https://github.com/moul/repoman/releases/tag/v1.6.8), 1 month ago) - 📋 repo manager: some scripts I run against my repos
@@ -32,7 +32,7 @@
 <li><a href="https://github.com/moul/totp-cli">moul/totp-cli</a> - 🔒 TOTP CLI (9 months ago)</li>
 <li><a href="https://github.com/moul/logman">moul/logman</a> - ✍️ log files management library optimized for &#34;Share with Developers&#34; (10 months ago)</li>
 <li><a href="https://github.com/moul/zapgorm2">moul/zapgorm2</a> - ⚡ zap logging driver for gorm v2 (10 months ago)</li>
-<li><a href="https://github.com/sgtm-club/sgtm">sgtm-club/sgtm</a> - 👍 An ongoing-song sharing platform for musicians (10 months ago)</li>
+<li><a href="https://github.com/sgtm-club/sgtm">sgtm-club/sgtm</a> - 👍 An ongoing-song sharing platform for musicians (11 months ago)</li>
 <li><a href="https://github.com/moul/sshportal">moul/sshportal</a> - :tophat: simple, fun and transparent SSH (and telnet) bastion server (11 months ago)</li>
 <li><a href="https://github.com/moul/repoman">moul/repoman</a> - 📋 repo manager: some scripts I run against my repos (11 months ago)</li>
 <li><a href="https://github.com/moul/zapring">moul/zapring</a> - 💍 In-memory RING buffer backend for the Zap logger (11 months ago)</li>
