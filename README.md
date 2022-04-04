@@ -20,16 +20,16 @@
 - [moul/assh](https://github.com/moul/assh) ([v2.12.2](https://github.com/moul/assh/releases/tag/v2.12.2), 3 months ago) - :computer: make your ssh client smarter
 - [moul/logman](https://github.com/moul/logman) ([v1.2.3](https://github.com/moul/logman/releases/tag/v1.2.3), 3 months ago) - ✍️ log files management library optimized for &#34;Share with Developers&#34;
 - [moul/zapring](https://github.com/moul/zapring) ([v1.3.5](https://github.com/moul/zapring/releases/tag/v1.3.5), 3 months ago) - 💍 In-memory RING buffer backend for the Zap logger
-- [moul/totp-cli](https://github.com/moul/totp-cli) ([v1.0.0](https://github.com/moul/totp-cli/releases/tag/v1.0.0), 9 months ago) - 🔒 TOTP CLI
+- [moul/totp-cli](https://github.com/moul/totp-cli) ([v1.0.0](https://github.com/moul/totp-cli/releases/tag/v1.0.0), 10 months ago) - 🔒 TOTP CLI
 - [sgtm-club/sgtm](https://github.com/sgtm-club/sgtm) ([v1.54.2](https://github.com/sgtm-club/sgtm/releases/tag/v1.54.2), 11 months ago) - 👍 An ongoing-song sharing platform for musicians
 
 
 <h4>👷 Check out what I'm currently working on</h4>
 <ul>
 
-<li><a href="https://github.com/moul/totp-cli">moul/totp-cli</a> - 🔒 TOTP CLI (9 months ago)</li>
+<li><a href="https://github.com/moul/totp-cli">moul/totp-cli</a> - 🔒 TOTP CLI (10 months ago)</li>
 <li><a href="https://github.com/moul/logman">moul/logman</a> - ✍️ log files management library optimized for &#34;Share with Developers&#34; (10 months ago)</li>
-<li><a href="https://github.com/moul/zapgorm2">moul/zapgorm2</a> - ⚡ zap logging driver for gorm v2 (10 months ago)</li>
+<li><a href="https://github.com/moul/zapgorm2">moul/zapgorm2</a> - ⚡ zap logging driver for gorm v2 (11 months ago)</li>
 <li><a href="https://github.com/sgtm-club/sgtm">sgtm-club/sgtm</a> - 👍 An ongoing-song sharing platform for musicians (11 months ago)</li>
 <li><a href="https://github.com/moul/sshportal">moul/sshportal</a> - :tophat: simple, fun and transparent SSH (and telnet) bastion server (11 months ago)</li>
 <li><a href="https://github.com/moul/repoman">moul/repoman</a> - 📋 repo manager: some scripts I run against my repos (11 months ago)</li>
