@@ -14,7 +14,7 @@
 - [moul-bot/depviz-test](https://github.com/moul-bot/depviz-test) - 
 
 #### 🔭 Recent Releases I Worked On
-- [moul/zapgorm2](https://github.com/moul/zapgorm2) ([v1.1.3](https://github.com/moul/zapgorm2/releases/tag/v1.1.3), 1 month ago) - ⚡ zap logging driver for gorm v2
+- [moul/zapgorm2](https://github.com/moul/zapgorm2) ([v1.1.3](https://github.com/moul/zapgorm2/releases/tag/v1.1.3), 2 months ago) - ⚡ zap logging driver for gorm v2
 - [moul/sshportal](https://github.com/moul/sshportal) ([v1.19.3](https://github.com/moul/sshportal/releases/tag/v1.19.3), 2 months ago) - :tophat: simple, fun and transparent SSH (and telnet) bastion server
 - [moul/repoman](https://github.com/moul/repoman) ([v1.6.8](https://github.com/moul/repoman/releases/tag/v1.6.8), 2 months ago) - 📋 repo manager: some scripts I run against my repos
 - [moul/assh](https://github.com/moul/assh) ([v2.12.2](https://github.com/moul/assh/releases/tag/v2.12.2), 3 months ago) - :computer: make your ssh client smarter
@@ -31,8 +31,8 @@
 <li><a href="https://github.com/moul/logman">moul/logman</a> - ✍️ log files management library optimized for &#34;Share with Developers&#34; (10 months ago)</li>
 <li><a href="https://github.com/moul/zapgorm2">moul/zapgorm2</a> - ⚡ zap logging driver for gorm v2 (11 months ago)</li>
 <li><a href="https://github.com/sgtm-club/sgtm">sgtm-club/sgtm</a> - 👍 An ongoing-song sharing platform for musicians (11 months ago)</li>
-<li><a href="https://github.com/moul/sshportal">moul/sshportal</a> - :tophat: simple, fun and transparent SSH (and telnet) bastion server (11 months ago)</li>
-<li><a href="https://github.com/moul/repoman">moul/repoman</a> - 📋 repo manager: some scripts I run against my repos (11 months ago)</li>
+<li><a href="https://github.com/moul/sshportal">moul/sshportal</a> - :tophat: simple, fun and transparent SSH (and telnet) bastion server (1 year ago)</li>
+<li><a href="https://github.com/moul/repoman">moul/repoman</a> - 📋 repo manager: some scripts I run against my repos (1 year ago)</li>
 <li><a href="https://github.com/moul/zapring">moul/zapring</a> - 💍 In-memory RING buffer backend for the Zap logger (1 year ago)</li>
 <li><a href="https://github.com/moul/assh">moul/assh</a> - :computer: make your ssh client smarter (1 year ago)</li>
 </ul>
