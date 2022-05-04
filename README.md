@@ -16,16 +16,16 @@
 #### 🔭 Recent Releases I Worked On
 - [moul/zapgorm2](https://github.com/moul/zapgorm2) ([v1.1.3](https://github.com/moul/zapgorm2/releases/tag/v1.1.3), 2 months ago) - ⚡ zap logging driver for gorm v2
 - [moul/logman](https://github.com/moul/logman) ([v1.2.3](https://github.com/moul/logman/releases/tag/v1.2.3), 4 months ago) - ✍️ log files management library optimized for &#34;Share with Developers&#34;
-- [moul/totp-cli](https://github.com/moul/totp-cli) ([v1.0.0](https://github.com/moul/totp-cli/releases/tag/v1.0.0), 10 months ago) - 🔒 TOTP CLI
+- [moul/totp-cli](https://github.com/moul/totp-cli) ([v1.0.0](https://github.com/moul/totp-cli/releases/tag/v1.0.0), 11 months ago) - 🔒 TOTP CLI
 
 
 <h4>👷 Check out what I'm currently working on</h4>
 <ul>
 
 <li><a href="https://github.com/moul/pb">moul/pb</a> -  (1 week ago)</li>
-<li><a href="https://github.com/moul/totp-cli">moul/totp-cli</a> - 🔒 TOTP CLI (10 months ago)</li>
+<li><a href="https://github.com/moul/totp-cli">moul/totp-cli</a> - 🔒 TOTP CLI (11 months ago)</li>
 <li><a href="https://github.com/moul/logman">moul/logman</a> - ✍️ log files management library optimized for &#34;Share with Developers&#34; (11 months ago)</li>
-<li><a href="https://github.com/moul/zapgorm2">moul/zapgorm2</a> - ⚡ zap logging driver for gorm v2 (11 months ago)</li>
+<li><a href="https://github.com/moul/zapgorm2">moul/zapgorm2</a> - ⚡ zap logging driver for gorm v2 (1 year ago)</li>
 </ul>
 
 <h4>👯 Check out some of my recent followers</h4>
