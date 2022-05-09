@@ -14,7 +14,6 @@
 - [moul-bot/depviz-test](https://github.com/moul-bot/depviz-test) - 
 
 #### 🔭 Recent Releases I Worked On
-- [moul/zapgorm2](https://github.com/moul/zapgorm2) ([v1.1.3](https://github.com/moul/zapgorm2/releases/tag/v1.1.3), 2 months ago) - ⚡ zap logging driver for gorm v2
 - [moul/logman](https://github.com/moul/logman) ([v1.2.3](https://github.com/moul/logman/releases/tag/v1.2.3), 4 months ago) - ✍️ log files management library optimized for &#34;Share with Developers&#34;
 - [moul/totp-cli](https://github.com/moul/totp-cli) ([v1.0.0](https://github.com/moul/totp-cli/releases/tag/v1.0.0), 11 months ago) - 🔒 TOTP CLI
 
