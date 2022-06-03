@@ -14,16 +14,16 @@
 - [moul-bot/depviz-test](https://github.com/moul-bot/depviz-test) - 
 
 #### 🔭 Recent Releases I Worked On
-- [moul/totp-cli](https://github.com/moul/totp-cli) ([v1.0.0](https://github.com/moul/totp-cli/releases/tag/v1.0.0), 11 months ago) - 🔒 TOTP CLI
+- [moul/totp-cli](https://github.com/moul/totp-cli) ([v1.0.0](https://github.com/moul/totp-cli/releases/tag/v1.0.0), 1 year ago) - 🔒 TOTP CLI
 
 
 <h4>👷 Check out what I'm currently working on</h4>
 <ul>
 
-<li><a href="https://github.com/moul/adapterkit">moul/adapterkit</a> - multi-purpose, extensible mechanism for managing jobs and commands (2 days ago)</li>
+<li><a href="https://github.com/moul/adapterkit">moul/adapterkit</a> - multi-purpose, extensible mechanism for managing jobs and commands (3 days ago)</li>
 <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - Gno language (1 month ago)</li>
 <li><a href="https://github.com/moul/pb">moul/pb</a> -  (1 month ago)</li>
-<li><a href="https://github.com/moul/totp-cli">moul/totp-cli</a> - 🔒 TOTP CLI (11 months ago)</li>
+<li><a href="https://github.com/moul/totp-cli">moul/totp-cli</a> - 🔒 TOTP CLI (1 year ago)</li>
 </ul>
 
 <h4>👯 Check out some of my recent followers</h4>
