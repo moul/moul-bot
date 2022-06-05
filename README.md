@@ -20,7 +20,7 @@
 <h4>👷 Check out what I'm currently working on</h4>
 <ul>
 
-<li><a href="https://github.com/moul/adapterkit">moul/adapterkit</a> - multi-purpose, extensible mechanism for managing jobs and commands (4 days ago)</li>
+<li><a href="https://github.com/moul/adapterkit">moul/adapterkit</a> - multi-purpose, extensible mechanism for managing jobs and commands (5 days ago)</li>
 <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - Gno language (1 month ago)</li>
 <li><a href="https://github.com/moul/pb">moul/pb</a> -  (1 month ago)</li>
 <li><a href="https://github.com/moul/totp-cli">moul/totp-cli</a> - 🔒 TOTP CLI (1 year ago)</li>
