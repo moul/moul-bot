@@ -14,7 +14,6 @@
 - [moul-bot/depviz-test](https://github.com/moul-bot/depviz-test) - 
 
 #### 🔭 Recent Releases I Worked On
-- [moul/totp-cli](https://github.com/moul/totp-cli) ([v1.0.0](https://github.com/moul/totp-cli/releases/tag/v1.0.0), 1 year ago) - 🔒 TOTP CLI
 
 
 <h4>👷 Check out what I'm currently working on</h4>
