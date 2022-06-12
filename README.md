@@ -22,7 +22,6 @@
 <li><a href="https://github.com/moul/adapterkit">moul/adapterkit</a> - multi-purpose, extensible mechanism for managing jobs and commands (1 week ago)</li>
 <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - Gno language (1 month ago)</li>
 <li><a href="https://github.com/moul/pb">moul/pb</a> -  (1 month ago)</li>
-<li><a href="https://github.com/moul/totp-cli">moul/totp-cli</a> - 🔒 TOTP CLI (1 year ago)</li>
 </ul>
 
 <h4>👯 Check out some of my recent followers</h4>
