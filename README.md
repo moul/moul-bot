@@ -21,7 +21,7 @@
 
 <li><a href="https://github.com/moul/adapterkit">moul/adapterkit</a> - multi-purpose, extensible mechanism for managing jobs and commands (3 weeks ago)</li>
 <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - Gno language (1 month ago)</li>
-<li><a href="https://github.com/moul/pb">moul/pb</a> -  (1 month ago)</li>
+<li><a href="https://github.com/moul/pb">moul/pb</a> -  (2 months ago)</li>
 </ul>
 
 <h4>👯 Check out some of my recent followers</h4>
