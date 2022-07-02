@@ -14,6 +14,7 @@
 - [moul-bot/depviz-test](https://github.com/moul-bot/depviz-test) - 
 
 #### 🔭 Recent Releases I Worked On
+- [moul/berty-discord-webhook](https://github.com/moul/berty-discord-webhook) ([v1.0.0](https://github.com/moul/berty-discord-webhook/releases/tag/v1.0.0), today) - A bot that sends Discord webhooks on new messages in a Berty group
 
 
 <h4>👷 Check out what I'm currently working on</h4>
