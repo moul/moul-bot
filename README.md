@@ -14,7 +14,7 @@
 - [moul-bot/depviz-test](https://github.com/moul-bot/depviz-test) - 
 
 #### 🔭 Recent Releases I Worked On
-- [gnolang/gno](https://github.com/gnolang/gno) ([chain/test2.0](https://github.com/gnolang/gno/releases/tag/chain%2Ftest2.0), 1 week ago) - Gno language
+- [gnolang/gno](https://github.com/gnolang/gno) ([chain/test2.0](https://github.com/gnolang/gno/releases/tag/chain%2Ftest2.0), 2 weeks ago) - Gno language
 - [moul/berty-discord-webhook](https://github.com/moul/berty-discord-webhook) ([v1.0.0](https://github.com/moul/berty-discord-webhook/releases/tag/v1.0.0), 3 weeks ago) - A bot that sends Discord webhooks on new messages in a Berty group
 
 
@@ -24,7 +24,7 @@
 <li><a href="https://github.com/moul/berty-discord-webhook">moul/berty-discord-webhook</a> - A bot that sends Discord webhooks on new messages in a Berty group (3 weeks ago)</li>
 <li><a href="https://github.com/moul/adapterkit">moul/adapterkit</a> - multi-purpose, extensible mechanism for managing jobs and commands (1 month ago)</li>
 <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - Gno language (2 months ago)</li>
-<li><a href="https://github.com/moul/pb">moul/pb</a> -  (2 months ago)</li>
+<li><a href="https://github.com/moul/pb">moul/pb</a> -  (3 months ago)</li>
 </ul>
 
 <h4>👯 Check out some of my recent followers</h4>
