@@ -23,7 +23,7 @@
 
 <li><a href="https://github.com/moul/berty-discord-webhook">moul/berty-discord-webhook</a> - A bot that sends Discord webhooks on new messages in a Berty group (3 weeks ago)</li>
 <li><a href="https://github.com/moul/adapterkit">moul/adapterkit</a> - multi-purpose, extensible mechanism for managing jobs and commands (1 month ago)</li>
-<li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - Gno language (2 months ago)</li>
+<li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - Gno language (3 months ago)</li>
 <li><a href="https://github.com/moul/pb">moul/pb</a> -  (3 months ago)</li>
 </ul>
 
