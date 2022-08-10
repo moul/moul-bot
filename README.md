@@ -14,6 +14,7 @@
 - [moul-bot/depviz-test](https://github.com/moul-bot/depviz-test) - 
 
 #### 🔭 Recent Releases I Worked On
+- [moul/asanaman](https://github.com/moul/asanaman) ([v1.0.0](https://github.com/moul/asanaman/releases/tag/v1.0.0), today) - 
 - [gnolang/gno](https://github.com/gnolang/gno) ([chain/test2.0](https://github.com/gnolang/gno/releases/tag/chain%2Ftest2.0), 1 month ago) - Gno language &amp; gno.land chain
 - [moul/berty-discord-webhook](https://github.com/moul/berty-discord-webhook) ([v1.0.0](https://github.com/moul/berty-discord-webhook/releases/tag/v1.0.0), 1 month ago) - A bot that sends Discord webhooks on new messages in a Berty group
 
@@ -21,6 +22,7 @@
 <h4>👷 Check out what I'm currently working on</h4>
 <ul>
 
+<li><a href="https://github.com/moul/asanaman">moul/asanaman</a> -  (today)</li>
 <li><a href="https://github.com/moul/berty-discord-webhook">moul/berty-discord-webhook</a> - A bot that sends Discord webhooks on new messages in a Berty group (1 month ago)</li>
 <li><a href="https://github.com/moul/adapterkit">moul/adapterkit</a> - multi-purpose, extensible mechanism for managing jobs and commands (2 months ago)</li>
 <li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - Gno language &amp; gno.land chain (3 months ago)</li>
