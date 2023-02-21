@@ -26,7 +26,7 @@
 <li><a href="https://github.com/moul/asanaman">moul/asanaman</a> - Asana tools and golang libs. (6 months ago)</li>
 <li><a href="https://github.com/moul/berty-discord-webhook">moul/berty-discord-webhook</a> - A bot that sends Discord webhooks on new messages in a Berty group (7 months ago)</li>
 <li><a href="https://github.com/adapterkit/adapterkit">adapterkit/adapterkit</a> - multi-purpose, extensible mechanism for managing jobs and commands (8 months ago)</li>
-<li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - Gno language &amp; gno.land chain (9 months ago)</li>
+<li><a href="https://github.com/gnolang/gno">gnolang/gno</a> - Gno language &amp; gno.land chain (10 months ago)</li>
 <li><a href="https://github.com/moul/pb">moul/pb</a> -  (10 months ago)</li>
 </ul>
 
