@@ -22,7 +22,7 @@
 <h4>👷 Check out what I'm currently working on</h4>
 <ul>
 
-<li><a href="https://github.com/moul/asanaman">moul/asanaman</a> - Asana tools and golang libs. (8 months ago)</li>
+<li><a href="https://github.com/moul/asanaman">moul/asanaman</a> - Asana tools and golang libs. (9 months ago)</li>
 <li><a href="https://github.com/moul/berty-discord-webhook">moul/berty-discord-webhook</a> - A bot that sends Discord webhooks on new messages in a Berty group (10 months ago)</li>
 <li><a href="https://github.com/adapterkit/adapterkit">adapterkit/adapterkit</a> - multi-purpose, extensible mechanism for managing jobs and commands (11 months ago)</li>
 </ul>
