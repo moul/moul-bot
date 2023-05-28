@@ -16,14 +16,14 @@
 #### 🔭 Recent Releases I Worked On
 - [adapterkit/adapterkit](https://github.com/adapterkit/adapterkit) ([v1.5.2](https://github.com/adapterkit/adapterkit/releases/tag/v1.5.2), 5 months ago) - multi-purpose, extensible mechanism for managing jobs and commands
 - [moul/asanaman](https://github.com/moul/asanaman) ([v1.4.0](https://github.com/moul/asanaman/releases/tag/v1.4.0), 9 months ago) - Asana tools and golang libs.
-- [moul/berty-discord-webhook](https://github.com/moul/berty-discord-webhook) ([v1.0.0](https://github.com/moul/berty-discord-webhook/releases/tag/v1.0.0), 10 months ago) - A bot that sends Discord webhooks on new messages in a Berty group
+- [moul/berty-discord-webhook](https://github.com/moul/berty-discord-webhook) ([v1.0.0](https://github.com/moul/berty-discord-webhook/releases/tag/v1.0.0), 11 months ago) - A bot that sends Discord webhooks on new messages in a Berty group
 
 
 <h4>👷 Check out what I'm currently working on</h4>
 <ul>
 
 <li><a href="https://github.com/moul/asanaman">moul/asanaman</a> - Asana tools and golang libs. (9 months ago)</li>
-<li><a href="https://github.com/moul/berty-discord-webhook">moul/berty-discord-webhook</a> - A bot that sends Discord webhooks on new messages in a Berty group (10 months ago)</li>
+<li><a href="https://github.com/moul/berty-discord-webhook">moul/berty-discord-webhook</a> - A bot that sends Discord webhooks on new messages in a Berty group (11 months ago)</li>
 <li><a href="https://github.com/adapterkit/adapterkit">adapterkit/adapterkit</a> - multi-purpose, extensible mechanism for managing jobs and commands (1 year ago)</li>
 </ul>
 
