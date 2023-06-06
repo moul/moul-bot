@@ -21,7 +21,7 @@
 <h4>👷 Check out what I'm currently working on</h4>
 <ul>
 
-<li><a href="https://github.com/moul/asanaman">moul/asanaman</a> - Asana tools and golang libs. (9 months ago)</li>
+<li><a href="https://github.com/moul/asanaman">moul/asanaman</a> - Asana tools and golang libs. (10 months ago)</li>
 <li><a href="https://github.com/moul/berty-discord-webhook">moul/berty-discord-webhook</a> - A bot that sends Discord webhooks on new messages in a Berty group (11 months ago)</li>
 </ul>
 
