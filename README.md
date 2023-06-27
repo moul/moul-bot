@@ -15,14 +15,14 @@
 
 #### 🔭 Recent Releases I Worked On
 - [moul/asanaman](https://github.com/moul/asanaman) ([v1.4.0](https://github.com/moul/asanaman/releases/tag/v1.4.0), 10 months ago) - Asana tools and golang libs.
-- [moul/berty-discord-webhook](https://github.com/moul/berty-discord-webhook) ([v1.0.0](https://github.com/moul/berty-discord-webhook/releases/tag/v1.0.0), 11 months ago) - A bot that sends Discord webhooks on new messages in a Berty group
+- [moul/berty-discord-webhook](https://github.com/moul/berty-discord-webhook) ([v1.0.0](https://github.com/moul/berty-discord-webhook/releases/tag/v1.0.0), 1 year ago) - A bot that sends Discord webhooks on new messages in a Berty group
 
 
 <h4>👷 Check out what I'm currently working on</h4>
 <ul>
 
 <li><a href="https://github.com/moul/asanaman">moul/asanaman</a> - Asana tools and golang libs. (10 months ago)</li>
-<li><a href="https://github.com/moul/berty-discord-webhook">moul/berty-discord-webhook</a> - A bot that sends Discord webhooks on new messages in a Berty group (11 months ago)</li>
+<li><a href="https://github.com/moul/berty-discord-webhook">moul/berty-discord-webhook</a> - A bot that sends Discord webhooks on new messages in a Berty group (1 year ago)</li>
 </ul>
 
 <h4>👯 Check out some of my recent followers</h4>
