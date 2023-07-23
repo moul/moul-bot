@@ -20,7 +20,7 @@
 <h4>👷 Check out what I'm currently working on</h4>
 <ul>
 
-<li><a href="https://github.com/gnolang/workshops">gnolang/workshops</a> - https://www.youtube.com/@_gnoland (1 day ago)</li>
+<li><a href="https://github.com/gnolang/workshops">gnolang/workshops</a> - https://www.youtube.com/@_gnoland (2 days ago)</li>
 <li><a href="https://github.com/moul/asanaman">moul/asanaman</a> - Asana tools and golang libs. (11 months ago)</li>
 </ul>
 
