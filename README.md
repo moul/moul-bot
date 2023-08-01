@@ -14,12 +14,14 @@
 - [moul-bot/depviz-test](https://github.com/moul-bot/depviz-test) - 
 
 #### 🔭 Recent Releases I Worked On
+- [moul/mdtable](https://github.com/moul/mdtable) ([v1.0.0](https://github.com/moul/mdtable/releases/tag/v1.0.0), today) - csv/json to markdown tables with customizable format
 - [moul/asanaman](https://github.com/moul/asanaman) ([v1.4.0](https://github.com/moul/asanaman/releases/tag/v1.4.0), 11 months ago) - Asana tools and golang libs.
 
 
 <h4>👷 Check out what I'm currently working on</h4>
 <ul>
 
+<li><a href="https://github.com/moul/mdtable">moul/mdtable</a> - csv/json to markdown tables with customizable format (today)</li>
 <li><a href="https://github.com/gnolang/workshops">gnolang/workshops</a> - https://www.youtube.com/@_gnoland (1 week ago)</li>
 <li><a href="https://github.com/moul/asanaman">moul/asanaman</a> - Asana tools and golang libs. (11 months ago)</li>
 </ul>
