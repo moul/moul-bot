@@ -15,7 +15,6 @@
 
 #### 🔭 Recent Releases I Worked On
 - [moul/mdtable](https://github.com/moul/mdtable) ([v1.0.0](https://github.com/moul/mdtable/releases/tag/v1.0.0), 1 week ago) - csv/json to markdown tables with customizable format
-- [moul/asanaman](https://github.com/moul/asanaman) ([v1.4.0](https://github.com/moul/asanaman/releases/tag/v1.4.0), 1 year ago) - Asana tools and golang libs.
 
 
 <h4>👷 Check out what I'm currently working on</h4>
