@@ -21,7 +21,7 @@
 <ul>
 
 <li><a href="https://github.com/moul/mdtable">moul/mdtable</a> - csv/json to markdown tables with customizable format (1 week ago)</li>
-<li><a href="https://github.com/gnolang/workshops">gnolang/workshops</a> - https://www.youtube.com/@_gnoland (2 weeks ago)</li>
+<li><a href="https://github.com/gnolang/workshops">gnolang/workshops</a> - https://www.youtube.com/@_gnoland (3 weeks ago)</li>
 <li><a href="https://github.com/moul/asanaman">moul/asanaman</a> - Asana tools and golang libs. (1 year ago)</li>
 </ul>
 
