@@ -21,7 +21,7 @@
 <ul>
 
 <li><a href="https://github.com/moul/mdtable">moul/mdtable</a> - csv/json to markdown tables with customizable format (2 weeks ago)</li>
-<li><a href="https://github.com/gnolang/workshops">gnolang/workshops</a> - https://www.youtube.com/@_gnoland (4 weeks ago)</li>
+<li><a href="https://github.com/gnolang/workshops">gnolang/workshops</a> - https://www.youtube.com/@_gnoland (1 month ago)</li>
 </ul>
 
 <h4>👯 Check out some of my recent followers</h4>
