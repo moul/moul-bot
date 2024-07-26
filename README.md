@@ -14,13 +14,13 @@
 - [moul-bot/depviz-test](https://github.com/moul-bot/depviz-test) - 
 
 #### 🔭 Recent Releases I Worked On
-- [moul/mdtable](https://github.com/moul/mdtable) ([v1.0.0](https://github.com/moul/mdtable/releases/tag/v1.0.0), 11 months ago) - csv/json to markdown tables with customizable format
+- [moul/mdtable](https://github.com/moul/mdtable) ([v1.0.0](https://github.com/moul/mdtable/releases/tag/v1.0.0), 1 year ago) - csv/json to markdown tables with customizable format
 
 
 <h4>👷 Check out what I'm currently working on</h4>
 <ul>
 
-<li><a href="https://github.com/moul/mdtable">moul/mdtable</a> - csv/json to markdown tables with customizable format (11 months ago)</li>
+<li><a href="https://github.com/moul/mdtable">moul/mdtable</a> - csv/json to markdown tables with customizable format (1 year ago)</li>
 </ul>
 
 <h4>👯 Check out some of my recent followers</h4>
