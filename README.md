@@ -14,7 +14,6 @@
 - [moul-bot/depviz-test](https://github.com/moul-bot/depviz-test) - 
 
 #### 🔭 Recent Releases I Worked On
-- [moul/mdtable](https://github.com/moul/mdtable) ([v1.0.0](https://github.com/moul/mdtable/releases/tag/v1.0.0), 1 year ago) - csv/json to markdown tables with customizable format
 
 
 <h4>👷 Check out what I'm currently working on</h4>
