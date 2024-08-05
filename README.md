@@ -19,7 +19,6 @@
 <h4>👷 Check out what I'm currently working on</h4>
 <ul>
 
-<li><a href="https://github.com/moul/mdtable">moul/mdtable</a> - csv/json to markdown tables with customizable format (1 year ago)</li>
 </ul>
 
 <h4>👯 Check out some of my recent followers</h4>
