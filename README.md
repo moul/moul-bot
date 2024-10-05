@@ -24,9 +24,9 @@
 <h4>👯 Check out some of my recent followers</h4>
 <ul>
 
+<li><a href="https://github.com/mous1985">mous1985</a>
 <li><a href="https://github.com/warmice71">warmice71</a>
 <li><a href="https://github.com/uwezukwechibuzor">uwezukwechibuzor</a>
 <li><a href="https://github.com/Tynab">Tynab</a>
 <li><a href="https://github.com/yangjiahao265">yangjiahao265</a>
-<li><a href="https://github.com/catShaark">catShaark</a>
 </ul>
